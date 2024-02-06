@@ -1,0 +1,29 @@
+<p>В таблице приведены 4 различных ответа, относящихся к поисковой тематике <b>{{topic}}</b>.</p>
+<p>Выберите ответ, который <strong>НАИМЕНЕЕ</strong> ВАЖЕН и ответ, который <strong>НАИБОЛЕЕ</strong> ВАЖЕН.</p>
+<table>
+    <tr>
+        <th>Наименее важен</th>
+        <th>Ответ</th>
+        <th>Наиболее важен</th>
+      </tr>
+    <tr>
+      <td><input type="radio" class="least" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Least1" id="Least-1a" required value="1" ></td>
+      <td>{{answer_1}}</td>
+      <td><input type="radio" class="most" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Most1" id="Most-1a"  required value="1" ></td>
+    </tr>
+    <tr>
+      <td><input type="radio" class="least" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Least1" id="Least-1b" required value="2" ></td>
+      <td>{{answer_2}}</td>
+      <td><input type="radio" class="most" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Most1" id="Most-1b" required value="2" ></td>
+    </tr>
+    <tr>
+      <td><input type="radio" class="least" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Least1" id="Least-1c" required value="3" ></td>
+      <td>{{answer_3}}</td>
+      <td><input type="radio" class="most" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Most1" id="Most-1c" required value="3" ></td>
+    </tr>
+    <tr>
+      <td><input type="radio" class="least"  onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Least1" id="Least-1d" required value="4" ></td>
+      <td>{{answer_4}}</td>
+       <td><input type="radio" class="most" onchange="$(this).closest('table').find('tr').each(function() { let $tr = $(this); $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);});" name="Most1" id="Most-1d" required value="4" ></td>
+    </tr>
+  </table>

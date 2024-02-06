@@ -1,0 +1,32 @@
+Cambridge	New Orleans	Miami	Washington, D.C.
+Atlanta	New York City	Houston	Anchorage
+Boston	Seattle	San Francisco	Los Angeles
+Palo Alto	Sacramento	Juneau	Cincinnati
+Cambridge	Anchorage	Los Angeles	Sacramento
+Boston	Houston	Cincinnati	Juneau
+San Francisco	Atlanta	New York City	Palo Alto
+New Orleans	Washington, D.C.	Seattle	Miami
+Boston	New York City	Los Angeles	New Orleans
+Miami	Atlanta	Seattle	Houston
+Cincinnati	Washington, D.C.	Sacramento	Cambridge
+Juneau	San Francisco	Palo Alto	Anchorage
+Sacramento	Cincinnati	Anchorage	New York City
+San Francisco	New Orleans	Los Angeles	Washington, D.C.
+Juneau	Miami	Cambridge	Boston
+Houston	Seattle	Palo Alto	Atlanta
+Seattle	Sacramento	San Francisco	Atlanta
+Boston	New Orleans	Cincinnati	Anchorage
+New York City	Juneau	Palo Alto	Miami
+Houston	Los Angeles	Cambridge	Washington, D.C.
+Houston	Anchorage	Juneau	Miami
+Sacramento	New Orleans	Atlanta	New York City
+San Francisco	Palo Alto	Boston	Washington, D.C.
+Cambridge	Seattle	Cincinnati	Los Angeles
+New York City	San Francisco	Seattle	Cambridge
+Anchorage	Palo Alto	Cincinnati	Houston
+Los Angeles	Sacramento	Miami	Boston
+Washington, D.C.	Atlanta	New Orleans	Juneau
+Los Angeles	Miami	Sacramento	Cincinnati
+Cambridge	Anchorage	Atlanta	Washington, D.C.
+New Orleans	Seattle	Houston	New York City
+Palo Alto	Boston	Juneau	San Francisco

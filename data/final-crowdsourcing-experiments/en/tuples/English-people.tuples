@@ -1,0 +1,26 @@
+Dr. Livesey	William Blake	George Orwell	Clint Eastwood
+Harry Potter	Anya Taylor-Joy	Angel Coulby	Lucian Freud
+Roger Moore	Daniel Day-Lewis	Tom Hardy	Australia
+Isaac Newton	George Orwell	Tom Hardy	Harry Potter
+Daniel Day-Lewis	Lucian Freud	Clint Eastwood	Anya Taylor-Joy
+Isaac Newton	Roger Moore	Australia	Dr. Livesey
+William Blake	Angel Coulby	Australia	Tom Hardy
+Daniel Day-Lewis	Roger Moore	Angel Coulby	Clint Eastwood
+Isaac Newton	Lucian Freud	Dr. Livesey	William Blake
+Harry Potter	Anya Taylor-Joy	George Orwell	Daniel Day-Lewis
+Roger Moore	Tom Hardy	Dr. Livesey	Angel Coulby
+William Blake	Clint Eastwood	Anya Taylor-Joy	Lucian Freud
+Australia	George Orwell	Isaac Newton	Harry Potter
+Isaac Newton	William Blake	Australia	Anya Taylor-Joy
+Clint Eastwood	Lucian Freud	Angel Coulby	Daniel Day-Lewis
+Roger Moore	Dr. Livesey	Harry Potter	Tom Hardy
+George Orwell	Lucian Freud	William Blake	Roger Moore
+Anya Taylor-Joy	Angel Coulby	Daniel Day-Lewis	Isaac Newton
+George Orwell	Dr. Livesey	Tom Hardy	Clint Eastwood
+Harry Potter	Australia	Roger Moore	Clint Eastwood
+Dr. Livesey	Isaac Newton	Angel Coulby	Anya Taylor-Joy
+Harry Potter	William Blake	Daniel Day-Lewis	Tom Hardy
+Australia	Lucian Freud	George Orwell	Isaac Newton
+Dr. Livesey	George Orwell	Roger Moore	Anya Taylor-Joy
+Daniel Day-Lewis	Tom Hardy	Harry Potter	William Blake
+Angel Coulby	Clint Eastwood	Australia	Lucian Freud

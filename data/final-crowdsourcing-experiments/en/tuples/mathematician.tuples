@@ -1,0 +1,36 @@
+Joan Clarke	Grigori Perelman	Mikhail Vassilyevich Lomonosov	Arkady Volozh
+Thomas Edison	Albrecht Dürer	Werner Heisenberg	Ted Kaczynski
+Boris Grebenshchikov	Leonardo da Vinci	Immanuel Kant	Carl Friedrich Gauss
+John Forbes Nash	Boris Berezovsky	Isaac Newton	Lee Hsien Loong
+Max Born	mathematics	Isaac Newton	Thomas Edison
+Albrecht Dürer	Grigori Perelman	Boris Berezovsky	Carl Friedrich Gauss
+mathematics	Leonardo da Vinci	Boris Grebenshchikov	Arkady Volozh
+Werner Heisenberg	Max Born	Mikhail Vassilyevich Lomonosov	Ted Kaczynski
+Lee Hsien Loong	Joan Clarke	John Forbes Nash	Immanuel Kant
+Albrecht Dürer	Joan Clarke	Isaac Newton	Leonardo da Vinci
+Mikhail Vassilyevich Lomonosov	Boris Grebenshchikov	John Forbes Nash	Lee Hsien Loong
+Grigori Perelman	Thomas Edison	mathematics	Werner Heisenberg
+Arkady Volozh	Ted Kaczynski	Immanuel Kant	Carl Friedrich Gauss
+Max Born	Boris Berezovsky	Leonardo da Vinci	Albrecht Dürer
+Lee Hsien Loong	Isaac Newton	Carl Friedrich Gauss	Boris Grebenshchikov
+Ted Kaczynski	Werner Heisenberg	John Forbes Nash	Joan Clarke
+Arkady Volozh	Immanuel Kant	Mikhail Vassilyevich Lomonosov	Thomas Edison
+Boris Berezovsky	mathematics	Max Born	Grigori Perelman
+Carl Friedrich Gauss	Joan Clarke	Lee Hsien Loong	Werner Heisenberg
+John Forbes Nash	Leonardo da Vinci	Thomas Edison	Boris Berezovsky
+Ted Kaczynski	Arkady Volozh	Mikhail Vassilyevich Lomonosov	Max Born
+Albrecht Dürer	mathematics	Boris Grebenshchikov	Immanuel Kant
+Isaac Newton	Grigori Perelman	Boris Berezovsky	Joan Clarke
+Werner Heisenberg	Immanuel Kant	Boris Grebenshchikov	Lee Hsien Loong
+Thomas Edison	Max Born	John Forbes Nash	mathematics
+Grigori Perelman	Mikhail Vassilyevich Lomonosov	Isaac Newton	Leonardo da Vinci
+Ted Kaczynski	Albrecht Dürer	Carl Friedrich Gauss	Arkady Volozh
+Albrecht Dürer	Boris Berezovsky	Ted Kaczynski	John Forbes Nash
+Joan Clarke	Immanuel Kant	Thomas Edison	Carl Friedrich Gauss
+mathematics	Lee Hsien Loong	Werner Heisenberg	Arkady Volozh
+Max Born	Boris Grebenshchikov	Grigori Perelman	Isaac Newton
+Mikhail Vassilyevich Lomonosov	Leonardo da Vinci	Lee Hsien Loong	Grigori Perelman
+Leonardo da Vinci	Carl Friedrich Gauss	Max Born	Albrecht Dürer
+Boris Berezovsky	Ted Kaczynski	Joan Clarke	mathematics
+Thomas Edison	John Forbes Nash	Boris Grebenshchikov	Arkady Volozh
+Mikhail Vassilyevich Lomonosov	Werner Heisenberg	Immanuel Kant	Isaac Newton

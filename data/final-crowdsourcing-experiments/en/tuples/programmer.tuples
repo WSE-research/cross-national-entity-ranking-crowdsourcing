@@ -1,0 +1,30 @@
+Satoshi Nakamoto	Aleksandr Tsoi	Julian Assange	Ilya Segalovich
+Vitalik Buterin	application programming interface	Mark Zuckerberg	Bill Gates
+Ada Lovelace	Eugen Rochko	Markus Persson	Elon Musk
+Paul G. Allen	Steve Wozniak	Jack Dorsey	application programming interface
+Mark Zuckerberg	Julian Assange	Eugen Rochko	Ada Lovelace
+Elon Musk	Vitalik Buterin	Ilya Segalovich	Aleksandr Tsoi
+Bill Gates	Paul G. Allen	Markus Persson	Satoshi Nakamoto
+Steve Wozniak	Jack Dorsey	Aleksandr Tsoi	Elon Musk
+application programming interface	Julian Assange	Steve Wozniak	Bill Gates
+Ada Lovelace	Ilya Segalovich	Satoshi Nakamoto	Markus Persson
+Vitalik Buterin	Paul G. Allen	Mark Zuckerberg	Eugen Rochko
+Jack Dorsey	Markus Persson	Steve Wozniak	Bill Gates
+Ilya Segalovich	Satoshi Nakamoto	Ada Lovelace	Paul G. Allen
+Jack Dorsey	Eugen Rochko	Vitalik Buterin	Julian Assange
+Aleksandr Tsoi	Elon Musk	Mark Zuckerberg	application programming interface
+Satoshi Nakamoto	Julian Assange	application programming interface	Elon Musk
+Bill Gates	Mark Zuckerberg	Aleksandr Tsoi	Jack Dorsey
+Ilya Segalovich	Vitalik Buterin	Steve Wozniak	Eugen Rochko
+Markus Persson	Paul G. Allen	Ada Lovelace	Bill Gates
+Elon Musk	Satoshi Nakamoto	Paul G. Allen	Ada Lovelace
+Steve Wozniak	Mark Zuckerberg	Eugen Rochko	Markus Persson
+application programming interface	Ilya Segalovich	Jack Dorsey	Vitalik Buterin
+Julian Assange	Aleksandr Tsoi	Steve Wozniak	Ada Lovelace
+Bill Gates	Julian Assange	Ilya Segalovich	Vitalik Buterin
+Paul G. Allen	Jack Dorsey	Elon Musk	Eugen Rochko
+Mark Zuckerberg	Satoshi Nakamoto	Aleksandr Tsoi	application programming interface
+Markus Persson	Ilya Segalovich	Aleksandr Tsoi	Paul G. Allen
+Eugen Rochko	Bill Gates	Jack Dorsey	Satoshi Nakamoto
+Mark Zuckerberg	application programming interface	Markus Persson	Elon Musk
+Vitalik Buterin	Steve Wozniak	Julian Assange	Ada Lovelace

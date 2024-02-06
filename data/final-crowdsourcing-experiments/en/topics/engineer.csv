@@ -1,0 +1,184 @@
+Item1,Item2,Item3,Item4,BestItem,WorstItem
+Jimmy Carter,Leonid Brezhnev,Herbert Hoover,George Washington,Herbert Hoover,George Washington
+Jimmy Carter,Leonid Brezhnev,Herbert Hoover,George Washington,Leonid Brezhnev,George Washington
+Jimmy Carter,Leonid Brezhnev,Herbert Hoover,George Washington,Herbert Hoover,Leonid Brezhnev
+Jimmy Carter,Leonid Brezhnev,Herbert Hoover,George Washington,Leonid Brezhnev,Jimmy Carter
+Jimmy Carter,Leonid Brezhnev,Herbert Hoover,George Washington,George Washington,Jimmy Carter
+Herbert Hoover,Leonid Kuchma,Leonid Brezhnev,Viktor Yanukovych,Leonid Brezhnev,Herbert Hoover
+Herbert Hoover,Leonid Kuchma,Leonid Brezhnev,Viktor Yanukovych,Viktor Yanukovych,Herbert Hoover
+Herbert Hoover,Leonid Kuchma,Leonid Brezhnev,Viktor Yanukovych,Herbert Hoover,Leonid Kuchma
+Herbert Hoover,Leonid Kuchma,Leonid Brezhnev,Viktor Yanukovych,Viktor Yanukovych,Herbert Hoover
+Herbert Hoover,Leonid Kuchma,Leonid Brezhnev,Viktor Yanukovych,Viktor Yanukovych,Herbert Hoover
+George Washington,Robert Oppenheimer,Oleksandr Turchynov,Larry Page,Robert Oppenheimer,Larry Page
+George Washington,Robert Oppenheimer,Oleksandr Turchynov,Larry Page,Robert Oppenheimer,George Washington
+George Washington,Robert Oppenheimer,Oleksandr Turchynov,Larry Page,Robert Oppenheimer,George Washington
+George Washington,Robert Oppenheimer,Oleksandr Turchynov,Larry Page,Robert Oppenheimer,Oleksandr Turchynov
+Larry Page,Leonid Brezhnev,Nikolai Patrushev,Hu Jintao,Hu Jintao,Leonid Brezhnev
+Larry Page,Leonid Brezhnev,Nikolai Patrushev,Hu Jintao,Leonid Brezhnev,Larry Page
+Larry Page,Leonid Brezhnev,Nikolai Patrushev,Hu Jintao,Leonid Brezhnev,Larry Page
+Larry Page,Leonid Brezhnev,Nikolai Patrushev,Hu Jintao,Larry Page,Nikolai Patrushev
+Larry Page,Leonid Brezhnev,Nikolai Patrushev,Hu Jintao,Larry Page,Hu Jintao
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Mikhail Fridman,James Cameron
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Robert Oppenheimer,James Cameron
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Robert Oppenheimer,James Cameron
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Robert Oppenheimer,James Cameron
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Robert Oppenheimer,James Cameron
+Leonid Kuchma,Robert Oppenheimer,James Cameron,Mikhail Fridman,Robert Oppenheimer,Leonid Kuchma
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Oleksandr Turchynov,Herbert Hoover
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Robert Oppenheimer,Herbert Hoover
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Robert Oppenheimer,Mikhail Fridman
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Robert Oppenheimer,Herbert Hoover
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Robert Oppenheimer,Oleksandr Turchynov
+Mikhail Fridman,Oleksandr Turchynov,Robert Oppenheimer,Herbert Hoover,Oleksandr Turchynov,Herbert Hoover
+Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,Bernard Arnault,Oleksandr Turchynov,Jimmy Carter
+Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,Bernard Arnault,Jimmy Carter,Mikhail Mishustin
+Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,Bernard Arnault,Oleksandr Turchynov,Jimmy Carter
+Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,Bernard Arnault,Bernard Arnault,Jimmy Carter
+Hu Jintao,Viktor Yanukovych,Nikolai Patrushev,Herbert Hoover,Viktor Yanukovych,Herbert Hoover
+Hu Jintao,Viktor Yanukovych,Nikolai Patrushev,Herbert Hoover,Herbert Hoover,Hu Jintao
+Hu Jintao,Viktor Yanukovych,Nikolai Patrushev,Herbert Hoover,Nikolai Patrushev,Herbert Hoover
+George Washington,Leonid Kuchma,Hu Jintao,Bernard Arnault,Hu Jintao,George Washington
+George Washington,Leonid Kuchma,Hu Jintao,Bernard Arnault,Bernard Arnault,George Washington
+George Washington,Leonid Kuchma,Hu Jintao,Bernard Arnault,Bernard Arnault,George Washington
+George Washington,Leonid Kuchma,Hu Jintao,Bernard Arnault,Bernard Arnault,George Washington
+George Washington,Leonid Kuchma,Hu Jintao,Bernard Arnault,Hu Jintao,George Washington
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Robert Oppenheimer,Oleksandr Turchynov
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Elon Musk,Oleksandr Turchynov
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Nikolai Patrushev,Oleksandr Turchynov
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Robert Oppenheimer,Elon Musk
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Robert Oppenheimer,Oleksandr Turchynov
+Robert Oppenheimer,Nikolai Patrushev,Oleksandr Turchynov,Elon Musk,Nikolai Patrushev,Robert Oppenheimer
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Tom Hardy,Tuscany: Land of Passion
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Andrew Brown,Tuscany: Land of Passion
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Hu Jintao,Tuscany: Land of Passion
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Hu Jintao,Tom Hardy
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Tom Hardy,Tuscany: Land of Passion
+Tuscany: Land of Passion,Tom Hardy,Hu Jintao,Andrew Brown,Hu Jintao,Tuscany: Land of Passion
+Larry Page,Nikolai Patrushev,Leonid Brezhnev,George Washington,Larry Page,George Washington
+Larry Page,Nikolai Patrushev,Leonid Brezhnev,George Washington,Nikolai Patrushev,George Washington
+Larry Page,Nikolai Patrushev,Leonid Brezhnev,George Washington,Leonid Brezhnev,George Washington
+Bernard Arnault,Mikhail Mishustin,Hu Jintao,James Cameron,Mikhail Mishustin,James Cameron
+Bernard Arnault,Mikhail Mishustin,Hu Jintao,James Cameron,Bernard Arnault,James Cameron
+Bernard Arnault,Mikhail Mishustin,Hu Jintao,James Cameron,Bernard Arnault,James Cameron
+Bernard Arnault,Mikhail Mishustin,Hu Jintao,James Cameron,Bernard Arnault,James Cameron
+Bernard Arnault,Mikhail Mishustin,Hu Jintao,James Cameron,Bernard Arnault,James Cameron
+Hu Jintao,Alexander Developersky,carnivore,Magical Menagerie,Alexander Developersky,carnivore
+Hu Jintao,Alexander Developersky,carnivore,Magical Menagerie,Hu Jintao,carnivore
+Hu Jintao,Alexander Developersky,carnivore,Magical Menagerie,Alexander Developersky,carnivore
+Hu Jintao,Alexander Developersky,carnivore,Magical Menagerie,Hu Jintao,carnivore
+Hu Jintao,Alexander Developersky,carnivore,Magical Menagerie,Hu Jintao,carnivore
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Robert Oppenheimer,James Cameron
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Robert Oppenheimer,James Cameron
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Leonid Brezhnev,Elon Musk
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Robert Oppenheimer,James Cameron
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Robert Oppenheimer,Leonid Brezhnev
+Leonid Brezhnev,Elon Musk,Robert Oppenheimer,James Cameron,Robert Oppenheimer,James Cameron
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Mikhail Mishustin,Jimmy Carter
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Mikhail Mishustin,Jimmy Carter
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Leonid Brezhnev,Jimmy Carter
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Mikhail Fridman,Jimmy Carter
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Leonid Brezhnev,Mikhail Mishustin
+Mikhail Fridman,Jimmy Carter,Mikhail Mishustin,Leonid Brezhnev,Leonid Brezhnev,Jimmy Carter
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Elon Musk,James Cameron
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Robert Oppenheimer,James Cameron
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Robert Oppenheimer,James Cameron
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Robert Oppenheimer,James Cameron
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Robert Oppenheimer,Mikhail Mishustin
+James Cameron,Robert Oppenheimer,Mikhail Mishustin,Elon Musk,Elon Musk,Robert Oppenheimer
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Alexey Guitarov,Fantastic Beasts: The Crimes of Grindelwald
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Alexey Guitarov,Fantastic Beasts: The Crimes of Grindelwald
+Electro Chaos,Alexey Guitarov,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald,Bernard Arnault,Fantastic Beasts: The Crimes of Grindelwald
+James Cameron,Bernard Arnault,Jimmy Carter,Leonid Brezhnev,Bernard Arnault,Jimmy Carter
+James Cameron,Bernard Arnault,Jimmy Carter,Leonid Brezhnev,Bernard Arnault,James Cameron
+James Cameron,Bernard Arnault,Jimmy Carter,Leonid Brezhnev,Bernard Arnault,Jimmy Carter
+James Cameron,Bernard Arnault,Jimmy Carter,Leonid Brezhnev,Leonid Brezhnev,James Cameron
+James Cameron,Bernard Arnault,Jimmy Carter,Leonid Brezhnev,Leonid Brezhnev,Jimmy Carter
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Oleksandr Turchynov,George Washington
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,George Washington
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,Jimmy Carter
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Oleksandr Turchynov,George Washington
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Mikhail Mishustin,George Washington
+Mikhail Mishustin,George Washington,Jimmy Carter,Oleksandr Turchynov,Oleksandr Turchynov,Jimmy Carter
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Resident Evil Village
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Elena Percussionist
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Resident Evil Village
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Elena Percussionist
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Resident Evil Village
+Elena Percussionist,Larry Page,Resident Evil Village,Sofia Emancipator,Larry Page,Sofia Emancipator
+Oleksandr Turchynov,Leonid Kuchma,Larry Page,Viktor Yanukovych,Oleksandr Turchynov,Larry Page
+Oleksandr Turchynov,Leonid Kuchma,Larry Page,Viktor Yanukovych,Leonid Kuchma,Viktor Yanukovych
+Oleksandr Turchynov,Leonid Kuchma,Larry Page,Viktor Yanukovych,Larry Page,Leonid Kuchma
+Oleksandr Turchynov,Leonid Kuchma,Larry Page,Viktor Yanukovych,Larry Page,Oleksandr Turchynov
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Ursula von der Leyen,Dark Secrets
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Ursula von der Leyen,Great Stories
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Hu Jintao,Great Stories
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Hu Jintao,Great Stories
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Ursula von der Leyen,Great Stories
+Dark Secrets,Ursula von der Leyen,Hu Jintao,Great Stories,Hu Jintao,Great Stories
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,Hu Jintao,George Washington
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,Hu Jintao,James Cameron
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,Jimmy Carter,George Washington
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,George Washington,Jimmy Carter
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,Hu Jintao,George Washington
+George Washington,James Cameron,Hu Jintao,Jimmy Carter,Hu Jintao,James Cameron
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Robert Oppenheimer,Hu Jintao
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Robert Oppenheimer,Herbert Hoover
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Larry Page,Hu Jintao
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Herbert Hoover,Larry Page
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Robert Oppenheimer,Herbert Hoover
+Herbert Hoover,Robert Oppenheimer,Hu Jintao,Larry Page,Robert Oppenheimer,Hu Jintao
+George Washington,Mikhail Fridman,Larry Page,Leonid Kuchma,Mikhail Fridman,George Washington
+George Washington,Mikhail Fridman,Larry Page,Leonid Kuchma,Larry Page,George Washington
+George Washington,Mikhail Fridman,Larry Page,Leonid Kuchma,Leonid Kuchma,George Washington
+George Washington,Mikhail Fridman,Larry Page,Leonid Kuchma,Larry Page,George Washington
+George Washington,Mikhail Fridman,Larry Page,Leonid Kuchma,George Washington,Leonid Kuchma
+George Washington,Taylor Swift,Graffiti Cat,Alexander Mathematician,Alexander Mathematician,Taylor Swift
+George Washington,Taylor Swift,Graffiti Cat,Alexander Mathematician,George Washington,Graffiti Cat
+George Washington,Taylor Swift,Graffiti Cat,Alexander Mathematician,Graffiti Cat,Taylor Swift
+George Washington,Taylor Swift,Graffiti Cat,Alexander Mathematician,George Washington,Taylor Swift
+Elon Musk,Mikhail Fridman,James Cameron,Bernard Arnault,Mikhail Fridman,James Cameron
+Elon Musk,Mikhail Fridman,James Cameron,Bernard Arnault,Elon Musk,James Cameron
+Elon Musk,Mikhail Fridman,James Cameron,Bernard Arnault,Elon Musk,Bernard Arnault
+Oleksandr Turchynov,Mikhail Mishustin,George Washington,Viktor Yanukovych,Oleksandr Turchynov,George Washington
+Oleksandr Turchynov,Mikhail Mishustin,George Washington,Viktor Yanukovych,Oleksandr Turchynov,George Washington
+Oleksandr Turchynov,Mikhail Mishustin,George Washington,Viktor Yanukovych,Viktor Yanukovych,George Washington
+Oleksandr Turchynov,Mikhail Mishustin,George Washington,Viktor Yanukovych,Mikhail Mishustin,George Washington
+Oleksandr Turchynov,Elon Musk,Mikhail Fridman,Mikhail Mishustin,Elon Musk,Mikhail Mishustin
+Oleksandr Turchynov,Elon Musk,Mikhail Fridman,Mikhail Mishustin,Elon Musk,Mikhail Fridman
+Oleksandr Turchynov,Elon Musk,Mikhail Fridman,Mikhail Mishustin,Elon Musk,Mikhail Fridman
+Oleksandr Turchynov,Elon Musk,Mikhail Fridman,Mikhail Mishustin,Elon Musk,Mikhail Mishustin
+Oleksandr Turchynov,Elon Musk,Mikhail Fridman,Mikhail Mishustin,Elon Musk,Mikhail Mishustin
+Herbert Hoover,Bernard Arnault,Elon Musk,Viktor Yanukovych,Elon Musk,Herbert Hoover
+Herbert Hoover,Bernard Arnault,Elon Musk,Viktor Yanukovych,Elon Musk,Bernard Arnault
+Herbert Hoover,Bernard Arnault,Elon Musk,Viktor Yanukovych,Herbert Hoover,Elon Musk
+Herbert Hoover,Bernard Arnault,Elon Musk,Viktor Yanukovych,Elon Musk,Herbert Hoover
+Leonid Kuchma,Viktor Yanukovych,Robert Oppenheimer,Leonid Brezhnev,Robert Oppenheimer,Viktor Yanukovych
+Leonid Kuchma,Viktor Yanukovych,Robert Oppenheimer,Leonid Brezhnev,Robert Oppenheimer,Leonid Brezhnev
+Leonid Kuchma,Viktor Yanukovych,Robert Oppenheimer,Leonid Brezhnev,Robert Oppenheimer,Leonid Brezhnev
+Leonid Kuchma,Viktor Yanukovych,Robert Oppenheimer,Leonid Brezhnev,Robert Oppenheimer,Viktor Yanukovych
+James Cameron,Larry Page,Herbert Hoover,Viktor Yanukovych,Viktor Yanukovych,James Cameron
+James Cameron,Larry Page,Herbert Hoover,Viktor Yanukovych,Herbert Hoover,Larry Page
+James Cameron,Larry Page,Herbert Hoover,Viktor Yanukovych,Larry Page,James Cameron
+James Cameron,Larry Page,Herbert Hoover,Viktor Yanukovych,Herbert Hoover,Viktor Yanukovych
+Mikhail Mishustin,Nikolai Patrushev,Jimmy Carter,Hu Jintao,Mikhail Mishustin,Hu Jintao
+Mikhail Mishustin,Nikolai Patrushev,Jimmy Carter,Hu Jintao,Nikolai Patrushev,Jimmy Carter
+Mikhail Mishustin,Nikolai Patrushev,Jimmy Carter,Hu Jintao,Mikhail Mishustin,Jimmy Carter
+Mikhail Mishustin,Nikolai Patrushev,Jimmy Carter,Hu Jintao,Mikhail Mishustin,Jimmy Carter
+Viktor Yanukovych,Elon Musk,Leonid Kuchma,Jimmy Carter,Elon Musk,Jimmy Carter
+Viktor Yanukovych,Elon Musk,Leonid Kuchma,Jimmy Carter,Elon Musk,Viktor Yanukovych
+Viktor Yanukovych,Elon Musk,Leonid Kuchma,Jimmy Carter,Elon Musk,Jimmy Carter
+Nikolai Patrushev,Hu Jintao,Bernard Arnault,Mikhail Fridman,Bernard Arnault,Hu Jintao
+Nikolai Patrushev,Hu Jintao,Bernard Arnault,Mikhail Fridman,Bernard Arnault,Hu Jintao
+Nikolai Patrushev,Hu Jintao,Bernard Arnault,Mikhail Fridman,Nikolai Patrushev,Hu Jintao
+Nikolai Patrushev,Hu Jintao,Bernard Arnault,Mikhail Fridman,Mikhail Fridman,Bernard Arnault
+Nikolai Patrushev,Hu Jintao,Bernard Arnault,Mikhail Fridman,Mikhail Fridman,Nikolai Patrushev
+Herbert Hoover,Bernard Arnault,Larry Page,Nikolai Patrushev,Bernard Arnault,Herbert Hoover
+Herbert Hoover,Bernard Arnault,Larry Page,Nikolai Patrushev,Herbert Hoover,Larry Page
+Herbert Hoover,Bernard Arnault,Larry Page,Nikolai Patrushev,Larry Page,Herbert Hoover
+Nikolai Patrushev,Leonid Kuchma,Elon Musk,Mikhail Fridman,Elon Musk,Leonid Kuchma
+Nikolai Patrushev,Leonid Kuchma,Elon Musk,Mikhail Fridman,Elon Musk,Leonid Kuchma
+Nikolai Patrushev,Leonid Kuchma,Elon Musk,Mikhail Fridman,Elon Musk,Mikhail Fridman
+Nikolai Patrushev,Leonid Kuchma,Elon Musk,Mikhail Fridman,Elon Musk,Mikhail Fridman

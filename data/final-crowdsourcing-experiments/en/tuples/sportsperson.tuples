@@ -1,0 +1,32 @@
+Dmytro Maksymov	Summer McIntosh	Sergei Anokhin	sports commentator
+Amandine Henry	Vincent Jay	Evan Fournier	Alex Shibutani
+Caroline Garcia	sport	motorsport marshal	Roger Lodge
+athlete	coach	Gwendal Peizerat	Enzo Fernández
+Dmytro Maksymov	Alex Shibutani	Roger Lodge	coach
+Caroline Garcia	Evan Fournier	Enzo Fernández	Gwendal Peizerat
+motorsport marshal	Amandine Henry	Vincent Jay	athlete
+Summer McIntosh	sports commentator	sport	Sergei Anokhin
+Caroline Garcia	Vincent Jay	Roger Lodge	Summer McIntosh
+Sergei Anokhin	Amandine Henry	sport	Evan Fournier
+Enzo Fernández	sports commentator	coach	Dmytro Maksymov
+Gwendal Peizerat	motorsport marshal	athlete	Alex Shibutani
+coach	Enzo Fernández	Alex Shibutani	Vincent Jay
+motorsport marshal	Summer McIntosh	Roger Lodge	sports commentator
+Gwendal Peizerat	Sergei Anokhin	Dmytro Maksymov	Caroline Garcia
+Evan Fournier	sport	athlete	Amandine Henry
+sport	coach	motorsport marshal	Amandine Henry
+Caroline Garcia	Summer McIntosh	Enzo Fernández	Alex Shibutani
+Vincent Jay	Gwendal Peizerat	athlete	Sergei Anokhin
+Evan Fournier	Roger Lodge	Dmytro Maksymov	sports commentator
+Evan Fournier	Alex Shibutani	Gwendal Peizerat	Sergei Anokhin
+coach	Summer McIntosh	Amandine Henry	Vincent Jay
+motorsport marshal	athlete	Caroline Garcia	sports commentator
+Dmytro Maksymov	sport	Enzo Fernández	Roger Lodge
+Vincent Jay	motorsport marshal	sport	Dmytro Maksymov
+Alex Shibutani	athlete	Enzo Fernández	Evan Fournier
+Roger Lodge	coach	Sergei Anokhin	Caroline Garcia
+sports commentator	Amandine Henry	Summer McIntosh	Gwendal Peizerat
+Roger Lodge	Sergei Anokhin	coach	Enzo Fernández
+Dmytro Maksymov	Alex Shibutani	Amandine Henry	sports commentator
+Summer McIntosh	sport	Evan Fournier	Vincent Jay
+athlete	Caroline Garcia	Gwendal Peizerat	motorsport marshal

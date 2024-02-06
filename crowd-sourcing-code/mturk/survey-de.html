@@ -1,0 +1,425 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+    
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="http://parsleyjs.org/dist/parsley.min.js"></script>
+
+<p></p>
+
+<!--page starts here -->
+<p></p>
+<fieldset>
+<font size="5">
+<strong>
+    <span style="color: #993300;">
+    <u>
+    Anweisungen
+    </u>
+    </span>
+</strong>
+</font>
+<p>  
+<p>
+        <strong>Einführung:</strong> 
+    <p>
+        In jedem HIT werden Ihnen vier Suchergebnisse vorgegeben. Ihre Aufgabe ist es, zu markieren:
+        <ul>
+            <li>das Suchergebnis, welches aus Ihrer Sicht <span style="color: #993300;">am wichtigsten ist (für das angezeigte Thema),</span></li>
+            <li>das Suchergebnis, welches aus Ihrer Sicht <span style="color: #993300;">am wenigsten wichtig ist (für das angezeigte Thema).</span></li>
+        </ul>
+  <li>Antworten, die nicht mit den Anweisungen übereinstimmen, werden nicht vergütet.</li>
+</ul>
+
+    </p>
+
+<p>
+    HINWEIS: 
+    Es gibt eine bestimmte Anzahl von Kontrollfragen, die über die Daten verteilt sind. 
+    Wir werden Ihre Antworten auf diese Fragen aufzeichnen. 
+    <span style="color: #993300;">Wenn Sie zu viele davon falsch ankreuzen, kann dies bei späterer Bewertung zur Ablehnung Ihrer HITs führen.</span> 
+</p>
+</fieldset>
+<p></p>
+<p></p>
+<!-- COMMENT TUPLE 1 -->
+
+<p>Q1. 
+    Die Tabelle zeigt 4 verschiedene Antworten zum Thema der Suche <strong>${1label}</strong>. Wählen Sie die Antwort, die am <strong>wenigsten wichtig</strong> ist, und die Antwort, die am <strong>wichtigsten</strong> ist.</p>
+<table>
+  <tr>
+    <th>Am wenigsten wichtig</th>
+    <th>Suchergebnis</th>
+    <th>Am wichtigsten</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least1" id="Least-1a" data-min-check="1" required value="a" ></td>
+    <td>${1a}</td>
+    <td><input type="radio" name="Most1" id="Most-1a" data-min-check="1" required value="a" ></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least1" id="Least-1b" data-min-check="1" required value="b" ></td>
+    <td>${1b}</td>
+    <td><input type="radio" name="Most1" id="Most-1b" data-min-check="1" required value="b" ></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least1" id="Least-1c" data-min-check="1" required value="c" ></td>
+    <td>${1c}</td>
+    <td><input type="radio" name="Most1" id="Most-1c" data-min-check="1" required value="c" ></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least1" id="Least-1d" data-min-check="1" required value="d" ></td>
+    <td>${1d}</td>
+     <td><input type="radio" name="Most1" id="Most-1d" data-min-check="1" required value="d" ></td>
+  </tr>
+</table>
+<input type="hidden" name="Real1" id="Real1" value="${1real}">
+<p></p>
+
+<!-- Prepended text-->
+<!-- 
+<div class="form-group">
+  <label class="col-md-4 control-label" for="prependedtext"></label>
+  <div class="col-md-8">
+    <div class="input-group">
+      <span class="input-group-addon">Feedback (optional):</span>
+      <input id="comment-1" name="comment-1" class="form-control" placeholder="" type="text">
+    </div>
+  </div>
+</div>
+//-->
+<br />
+<hr>
+<br>
+<p></p>
+<p></p>
+<!-- COMMENT TUPLE 2 -->
+
+<p>Q2. 
+    Die Tabelle zeigt 4 verschiedene Antworten zum Thema der Suche <strong>${2label}</strong>. Wählen Sie die Antwort, die am <strong>wenigsten wichtig</strong> ist, und die Antwort, die am <strong>wichtigsten</strong> ist.</p>
+<table>
+  <tr>
+    <th>Am wenigsten wichtig</th>
+    <th>Suchergebnis</th>
+    <th>Am wichtigsten</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least2" id="Least-2a" data-min-check="1" required value="a"></td>
+    <td>${2a}</td>
+    <td><input type="radio" name="Most2" id="Most-2a" data-min-check="1" required value="a"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least2" id="Least-2b" data-min-check="1" required value="b"></td>
+    <td>${2b}</td>
+    <td><input type="radio" name="Most2" id="Most-2b" data-min-check="1" required value="b"></td>
+  </tr>
+  <tr>
+    <td> <input type="radio" name="Least2" id="Least-2c" data-min-check="1" required value="c"></td>
+    <td>${2c}</td>
+    <td><input type="radio" name="Most2" id="Most-2c" data-min-check="1" required value="c"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least2" id="Least-2d" data-min-check="1" required value="d"></td>
+    <td>${2d}</td>
+    <td><input type="radio" name="Most2" id="Most-2d" data-min-check="1" required value="d"></td>
+  </tr>
+</table>
+<input type="hidden" name="Real2" id="Real2" value="${2real}">
+<p></p>
+
+<!-- Prepended text-->
+<!--
+<div class="form-group">
+  <label class="col-md-4 control-label" for="prependedtext"></label>
+  <div class="col-md-8">
+    <div class="input-group">
+      <span class="input-group-addon">Feedback (optional):</span>
+      <input id="comment-2" name="comment-2" class="form-control" placeholder="" type="text">
+    </div>
+  </div>
+</div>
+//-->
+<br />
+<hr>
+<br>
+<p></p>
+<p></p>
+<!-- COMMENT TUPLE 3 -->
+
+<p>Q3. 
+    Die Tabelle zeigt 4 verschiedene Antworten zum Thema der Suche <strong>${3label}</strong>. Wählen Sie die Antwort, die am <strong>wenigsten wichtig</strong> ist, und die Antwort, die am <strong>wichtigsten</strong> ist.</p>
+<table>
+  <tr>
+    <th>Am wenigsten wichtig</th>
+    <th>Suchergebnis</th>
+    <th>Am wichtigsten</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least3" id="Least-3a" data-min-check="1" required value="a"></td>
+    <td>${3a}</td>
+    <td><input type="radio" name="Most3" id="Most-3a" data-min-check="1" required value="a"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least3" id="Least-3b" data-min-check="1" required value="b"></td>
+    <td>${3b}</td>
+    <td><input type="radio" name="Most3" id="Most-3b" data-min-check="1" required value="b"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least3" id="Least-3c" data-min-check="1" required value="c"></td>
+    <td>${3c}</td>
+    <td><input type="radio" name="Most3" id="Most-3c" data-min-check="1" required value="c"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least3" id="Least-3d" data-min-check="1" required value="d"></td>
+    <td>${3d}</td>
+    <td><input type="radio" name="Most3" id="Most-3d" data-min-check="1" required value="d"></td>
+  </tr>
+</table>
+<input type="hidden" name="Real3" id="Real3" value="${3real}">
+<p></p>
+
+<!-- Prepended text-->
+<!---
+<div class="form-group">
+  <label class="col-md-4 control-label" for="prependedtext"></label>
+  <div class="col-md-8">
+    <div class="input-group">
+      <span class="input-group-addon">Feedback (optional):</span>
+      <input id="comment-3" name="comment-3" class="form-control" placeholder="" type="text">
+    </div>
+  </div>
+</div>
+//-->
+<br />
+<hr>
+<br>
+<p></p>
+<p></p>
+
+
+<!-- COMMENT TUPLE 4 -->
+
+<p>Q4. 
+    Die Tabelle zeigt 4 verschiedene Antworten zum Thema der Suche <strong>${4label}</strong>. Wählen Sie die Antwort, die am <strong>wenigsten wichtig</strong> ist, und die Antwort, die am <strong>wichtigsten</strong> ist.</p>
+<table>
+  <tr>
+    <th>Am wenigsten wichtig</th>
+    <th>Suchergebnis</th>
+    <th>Am wichtigsten</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least4" id="Least-4a" data-min-check="1" required value="a"></td>
+    <td>${4a}</td>
+    <td><input type="radio" name="Most4" id="Most-4a" data-min-check="1" required value="a"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least4" id="Least-4b" data-min-check="1" required value="b"></td>
+    <td>${4b}</td>
+    <td><input type="radio" name="Most4" id="Most-4b" data-min-check="1" required value="b"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least4" id="Least-4c" data-min-check="1" required value="c"></td>
+    <td>${4c}</td>
+    <td><input type="radio" name="Most4" id="Most-4c" data-min-check="1" required value="c"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least4" id="Least-4d" data-min-check="1" required value="d"></td>
+    <td>${4d}</td>
+    <td><input type="radio" name="Most4" id="Most-4d" data-min-check="1" required value="d"></td>
+  </tr>
+</table>
+<input type="hidden" name="Real4" id="Real4" value="${4real}">
+<p></p>
+
+<!-- Prepended text-->
+<!--
+<div class="form-group">
+  <label class="col-md-4 control-label" for="prependedtext"></label>
+  <div class="col-md-8">
+    <div class="input-group">
+      <span class="input-group-addon">Feedback (optional):</span>
+      <input id="comment-4" name="comment-4" class="form-control" placeholder="" type="text">
+    </div>
+  </div>
+</div>
+//-->
+<br />
+<hr>
+<br>
+<p></p>
+<p></p>
+
+<!-- COMMENT TUPLE 5 -->
+
+<p>Q5. 
+    Die Tabelle zeigt 4 verschiedene Antworten zum Thema der Suche <strong>${5label}</strong>. Wählen Sie die Antwort, die am <strong>wenigsten wichtig</strong> ist, und die Antwort, die am <strong>wichtigsten</strong> ist.</p>
+<table>
+  <tr>
+    <th>Am wenigsten wichtig</th>
+    <th>Suchergebnis</th>
+    <th>Am wichtigsten</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least5" id="Least-5a" data-min-check="1" required value="a"></td>
+    <td>${5a}</td>
+    <td><input type="radio" name="Most5" id="Most-5a" data-min-check="1" required value="a"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least5" id="Least-5b" data-min-check="1" required value="b"></td>
+    <td>${5b}</td>
+    <td><input type="radio" name="Most5" id="Most-5b" data-min-check="1" required value="b"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least5" id="Least-5c" data-min-check="1" required value="c"></td>
+    <td>${5c}</td>
+    <td><input type="radio" name="Most5" id="Most-5c" data-min-check="1" required value="c"></td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="Least5" id="Least-5d" data-min-check="1" required value="d"></td>
+    <td>${5d}</td>
+    <td><input type="radio" name="Most5" id="Most-5d" data-min-check="1" required value="d"></td>
+  </tr>
+</table>
+<input type="hidden" name="Real5" id="Real5" value="${5real}">
+<p></p>
+
+
+<!-- The Modal -->
+<!-- 
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p id="modal_text"></p>
+  </div>
+//-->
+</div>
+
+<script type="text/javascript">
+ $('#mturk_form').parsley();
+</script>
+</crowd-form>
+<!--Page ends here -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+	table {
+  		border-collapse: collapse;
+			}
+
+	td,
+	th {
+	  border: 1px solid #ccc;
+	  padding: 10px;
+	}
+
+	th:empty {
+	  border: 0;
+	}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+$(":radio").change(function() {
+  $(this).closest('table').find('tr').each(function() {
+    let $tr = $(this);
+    $tr.find(':radio:not(:checked)').prop('disabled', $tr.find(':radio:checked').length == 1);
+  });
+});
+
+</script>
+
+<!-- <script>
+	var x = document.getElementById("pusca").value;
+	alert(x);
+</script> -->
+
+<script type="text/javascript">
+document.querySelector('crowd-form').onsubmit = function(e ) {
+var gold = document.getElementById("gold").value;
+var type = document.getElementById("type").value;
+var gold_label1 = document.getElementById("gold_label1").value;
+var gold_label2 = document.getElementById("gold_label2").value;
+var number = document.getElementById("number").value;
+var question = type+number;
+
+if(gold == "1"){
+  var ele = document.getElementsByName(question);
+            for(i = 0; i < ele.length; i++) { 
+                if(ele[i].checked) {
+                	var x = (ele[i].value);
+                }   
+			}
+			
+			if(x != gold_label1 && x != gold_label2){
+				// Get the modal
+				document.getElementById("prev").value = x;
+				var modal = document.getElementById("myModal");
+				var modal_text = document.getElementById("modal_text");
+				if (gold_label2 != '0'){
+				modal_text.innerHTML = "You marked the gold question incorrectly. In Q. "+ number.bold() +" the "+type.bold()+" offensive answer is options: "+gold_label1.bold()+" , "+gold_label2.bold();}
+				else{
+				modal_text.innerHTML = "You marked the gold question incorrectly. In Q. "+ number.bold() +" the "+type.bold()+" offensive answer is option: "+gold_label1.bold();}
+				// Get the <span> element that closes the modal
+				var span = document.getElementsByClassName("close")[0];
+
+				modal.style.display = "block";
+
+				// When the user clicks on <span> (x), close the modal
+				span.onclick = function() {
+				  modal.style.display = "none";
+				}
+				e.preventDefault();
+			}
+    }
+}
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>

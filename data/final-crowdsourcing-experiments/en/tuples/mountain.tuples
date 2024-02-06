@@ -1,0 +1,36 @@
+Mount Athos	Mont Blanc	Panthera uncia	Denali
+Seven Summits	Aconcagua	Tambora	Puncak Jaya
+K2	Mount Vesuvius	Montana	Mona Lisa
+Mount Elbrus	Dufourspitze	Monte Carlo	Mount Everest
+Nanga Parbat	stratovolcano	Monte Carlo	Seven Summits
+Aconcagua	Mont Blanc	Dufourspitze	Mona Lisa
+stratovolcano	Mount Vesuvius	K2	Denali
+Tambora	Nanga Parbat	Panthera uncia	Puncak Jaya
+Mount Everest	Mount Athos	Mount Elbrus	Montana
+Aconcagua	Mount Athos	Monte Carlo	Mount Vesuvius
+Panthera uncia	K2	Mount Elbrus	Mount Everest
+Mont Blanc	Seven Summits	stratovolcano	Tambora
+Denali	Puncak Jaya	Montana	Mona Lisa
+Nanga Parbat	Dufourspitze	Mount Vesuvius	Aconcagua
+Mount Everest	Monte Carlo	Mona Lisa	K2
+Puncak Jaya	Tambora	Mount Elbrus	Mount Athos
+Denali	Montana	Panthera uncia	Seven Summits
+Dufourspitze	stratovolcano	Nanga Parbat	Mont Blanc
+Mona Lisa	Mount Athos	Mount Everest	Tambora
+Mount Elbrus	Mount Vesuvius	Seven Summits	Dufourspitze
+Puncak Jaya	Denali	Panthera uncia	Nanga Parbat
+Aconcagua	stratovolcano	K2	Montana
+Monte Carlo	Mont Blanc	Dufourspitze	Mount Athos
+Tambora	Montana	K2	Mount Everest
+Seven Summits	Nanga Parbat	Mount Elbrus	stratovolcano
+Mont Blanc	Panthera uncia	Monte Carlo	Mount Vesuvius
+Puncak Jaya	Aconcagua	Mona Lisa	Denali
+Aconcagua	Dufourspitze	Puncak Jaya	Mount Elbrus
+Mount Athos	Montana	Seven Summits	Mona Lisa
+stratovolcano	Mount Everest	Tambora	Denali
+Nanga Parbat	K2	Mont Blanc	Monte Carlo
+Panthera uncia	Mount Vesuvius	Mount Everest	Mont Blanc
+Mount Vesuvius	Mona Lisa	Nanga Parbat	Aconcagua
+Dufourspitze	Puncak Jaya	Mount Athos	stratovolcano
+Seven Summits	Mount Elbrus	K2	Denali
+Panthera uncia	Tambora	Montana	Monte Carlo

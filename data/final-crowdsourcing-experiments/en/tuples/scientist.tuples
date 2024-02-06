@@ -1,0 +1,38 @@
+Max Born	Valentina Tazekenova	Sergei Korolev	science
+Egon Spengler	The Doctor	scientific method	Zack Snyder
+Thirteenth Doctor	Alexander von Humboldt	Galileo Galilei	Frankenstein; or, The Modern Prometheus
+Operation Paperclip	Leonhard Euler	Leonardo da Vinci	Yury Luzhkov
+Mikhail Vassilyevich Lomonosov	Lionel Logue	Spider-Man	Yury Luzhkov
+Egon Spengler	Leonardo da Vinci	scientific method	The Doctor
+Galileo Galilei	Operation Paperclip	Mikhail Vassilyevich Lomonosov	Max Born
+Lionel Logue	Alexander von Humboldt	Thirteenth Doctor	Valentina Tazekenova
+Zack Snyder	science	Sergei Korolev	Leonhard Euler
+Frankenstein; or, The Modern Prometheus	Spider-Man	scientific method	Mikhail Vassilyevich Lomonosov
+Yury Luzhkov	Spider-Man	Valentina Tazekenova	Operation Paperclip
+The Doctor	Leonardo da Vinci	Galileo Galilei	Egon Spengler
+Sergei Korolev	Lionel Logue	Leonhard Euler	Zack Snyder
+science	Thirteenth Doctor	Alexander von Humboldt	Max Born
+Frankenstein; or, The Modern Prometheus	Yury Luzhkov	Leonardo da Vinci	Lionel Logue
+Sergei Korolev	Egon Spengler	Thirteenth Doctor	Frankenstein; or, The Modern Prometheus
+Zack Snyder	Leonhard Euler	Max Born	scientific method
+The Doctor	Spider-Man	Alexander von Humboldt	Operation Paperclip
+Mikhail Vassilyevich Lomonosov	science	Valentina Tazekenova	Galileo Galilei
+Leonardo da Vinci	Lionel Logue	Valentina Tazekenova	science
+scientific method	Zack Snyder	Spider-Man	Galileo Galilei
+Alexander von Humboldt	The Doctor	Yury Luzhkov	Max Born
+Leonhard Euler	Sergei Korolev	Operation Paperclip	Frankenstein; or, The Modern Prometheus
+Egon Spengler	Mikhail Vassilyevich Lomonosov	Thirteenth Doctor	scientific method
+Galileo Galilei	Valentina Tazekenova	Egon Spengler	Zack Snyder
+Spider-Man	Max Born	Sergei Korolev	Leonardo da Vinci
+Frankenstein; or, The Modern Prometheus	Thirteenth Doctor	Yury Luzhkov	The Doctor
+Alexander von Humboldt	Leonhard Euler	science	Mikhail Vassilyevich Lomonosov
+Lionel Logue	Operation Paperclip	The Doctor	Sergei Korolev
+Thirteenth Doctor	scientific method	Zack Snyder	Operation Paperclip
+Leonhard Euler	Valentina Tazekenova	science	Egon Spengler
+Spider-Man	Yury Luzhkov	Galileo Galilei	Max Born
+Alexander von Humboldt	Mikhail Vassilyevich Lomonosov	Frankenstein; or, The Modern Prometheus	Leonardo da Vinci
+Lionel Logue	Frankenstein; or, The Modern Prometheus	Galileo Galilei	Operation Paperclip
+The Doctor	Valentina Tazekenova	Leonardo da Vinci	Leonhard Euler
+Alexander von Humboldt	Sergei Korolev	Spider-Man	Mikhail Vassilyevich Lomonosov
+science	scientific method	Max Born	Thirteenth Doctor
+Egon Spengler	Lionel Logue	Zack Snyder	Yury Luzhkov

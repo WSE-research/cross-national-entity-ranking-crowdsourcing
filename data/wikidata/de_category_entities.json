@@ -1,0 +1,2863 @@
+{
+    "Q8502": {
+        "top_entities": [
+            "Q513",
+            "Q1212",
+            "Q208126",
+            "Q43512",
+            "Q43105",
+            "Q130736",
+            "Q583",
+            "Q1045888",
+            "Q168714",
+            "Q3403"
+        ],
+        "top_labels": [
+            "Mount_Everest",
+            "Montana",
+            "Seven_Summits",
+            "K2",
+            "Elbrus",
+            "Nanga_Parbat",
+            "Mont_Blanc",
+            "Puncak_Jaya",
+            "Tambora",
+            "Dufourspitze"
+        ],
+        "top_clicks": [
+            91164.0,
+            75300.0,
+            74387.0,
+            70196.0,
+            50972.0,
+            48247.0,
+            48170.0,
+            35965.0,
+            33049.0,
+            30874.0
+        ]
+    },
+    "Q33999": {
+        "top_entities": [
+            "Q3874799",
+            "Q154852",
+            "Q103343",
+            "Q229166",
+            "Q698173",
+            "Q37175",
+            "Q80966",
+            "Q101797",
+            "Q208667",
+            "Q28493"
+        ],
+        "top_labels": [
+            "Wolodymyr_Selenskyj",
+            "Till_Lindemann",
+            "Jennifer_Connelly",
+            "Amber_Heard",
+            "Ana_de_Armas",
+            "Johnny_Depp",
+            "Cate_Blanchett",
+            "Winona_Ryder",
+            "Stellan_Skarsgård",
+            "Ralph_Fiennes"
+        ],
+        "top_clicks": [
+            515095.0,
+            272956.0,
+            249985.0,
+            227400.0,
+            227268.0,
+            223385.0,
+            216118.0,
+            194374.0,
+            190580.0,
+            190359.0
+        ]
+    },
+    "Q1028181": {
+        "top_entities": [
+            "Q2677",
+            "Q15869",
+            "Q484523",
+            "Q152245",
+            "Q1203",
+            "Q2599",
+            "Q8446",
+            "Q116728",
+            "Q171363",
+            "Q5879"
+        ],
+        "top_labels": [
+            "Wilhelm_II._(Deutsches_Reich)",
+            "Freddie_Mercury",
+            "Jared_Leto",
+            "Albert_von_Sachsen-Coburg_und_Gotha",
+            "John_Lennon",
+            "Paul_McCartney",
+            "Kurt_Cobain",
+            "Victoria_von_Großbritannien_und_Irland_(1840–1901)",
+            "Viggo_Mortensen",
+            "Johann_Wolfgang_von_Goethe"
+        ],
+        "top_clicks": [
+            225165.0,
+            153287.0,
+            132789.0,
+            124551.0,
+            114016.0,
+            113637.0,
+            106509.0,
+            95035.0,
+            94932.0,
+            94128.0
+        ]
+    },
+    "Q3665646": {
+        "top_entities": [
+            "Q360531",
+            "Q188018",
+            "Q179051",
+            "Q41421",
+            "Q213706",
+            "Q36159",
+            "Q25369",
+            "Q44068",
+            "Q280793",
+            "Q190152"
+        ],
+        "top_labels": [
+            "Mahershala_Ali",
+            "Nick_Nolte",
+            "Kareem_Abdul-Jabbar",
+            "Michael_Jordan",
+            "Tom_Selleck",
+            "LeBron_James",
+            "Kobe_Bryant",
+            "Dirk_Nowitzki",
+            "Kevin_Nash",
+            "Larry_Bird"
+        ],
+        "top_clicks": [
+            76210.0,
+            65885.0,
+            63044.0,
+            62187.0,
+            60526.0,
+            56433.0,
+            45270.0,
+            43352.0,
+            42554.0,
+            33197.0
+        ]
+    },
+    "Q42973": {
+        "top_entities": [
+            "Q59321885",
+            "Q60045",
+            "Q75849",
+            "Q78484",
+            "Q762",
+            "Q164111",
+            "Q28655334",
+            "Q15935",
+            "Q11812",
+            "Q5592"
+        ],
+        "top_labels": [
+            "Olena_Selenska",
+            "Albert_Speer",
+            "Alfred_Rosenberg",
+            "Rudolf_Steiner",
+            "Leonardo_da_Vinci",
+            "Farah_Pahlavi",
+            "Yahya_Abdul-Mateen_II",
+            "Kanye_West",
+            "Thomas_Jefferson",
+            "Michelangelo"
+        ],
+        "top_clicks": [
+            151160.0,
+            68629.0,
+            56112.0,
+            52486.0,
+            50395.0,
+            49292.0,
+            49021.0,
+            47159.0,
+            42525.0,
+            40044.0
+        ]
+    },
+    "Q860861": {
+        "top_entities": [
+            "Q664245",
+            "Q573639",
+            "Q40555",
+            "Q465762",
+            "Q582172",
+            "Q1340523",
+            "Q1161218",
+            "Q700728",
+            "Q131397",
+            "Q408623"
+        ],
+        "top_labels": [
+            "Hermannsdenkmal",
+            "Kyffhäuserdenkmal",
+            "Totenmaske",
+            "Laokoon-Gruppe",
+            "Büste_der_Nofretete",
+            "Schwerter_von_Kadesia",
+            "Fallen_Astronaut",
+            "Venus_vom_Galgenberg",
+            "Venus_von_Willendorf",
+            "Kapitolinische_Wölfin"
+        ],
+        "top_clicks": [
+            39465.0,
+            30114.0,
+            13790.0,
+            12389.0,
+            11390.0,
+            11335.0,
+            7876.0,
+            7423.0,
+            6723.0,
+            6664.0
+        ]
+    },
+    "Q188094": {
+        "top_entities": [
+            "Q58077",
+            "Q1459658",
+            "Q48283",
+            "Q1459699",
+            "Q30487",
+            "Q32024",
+            "Q57665",
+            "Q2516",
+            "Q60805",
+            "Q57136"
+        ],
+        "top_labels": [
+            "Petro_Poroschenko",
+            "Wiktor_Janukowytsch",
+            "Julija_Tymoschenko",
+            "Wiktor_Juschtschenko",
+            "Michail_Sergejewitsch_Gorbatschow",
+            "Sergei_Kuschugetowitsch_Schoigu",
+            "Jens_Stoltenberg",
+            "Helmut_Schmidt",
+            "Rinat_Achmetow",
+            "Johann_Ludwig_Graf_Schwerin_von_Krosigk"
+        ],
+        "top_clicks": [
+            295289.0,
+            260361.0,
+            223618.0,
+            180020.0,
+            178842.0,
+            108019.0,
+            98146.0,
+            98086.0,
+            89596.0,
+            72492.0
+        ]
+    },
+    "Q81096": {
+        "top_entities": [
+            "Q1459658",
+            "Q317521",
+            "Q765165",
+            "Q32055",
+            "Q23685",
+            "Q15029",
+            "Q42574",
+            "Q132537",
+            "Q4298520",
+            "Q732142"
+        ],
+        "top_labels": [
+            "Wiktor_Janukowytsch",
+            "Elon_Musk",
+            "Leonid_Iljitsch_Breschnew",
+            "Bernard_Arnault",
+            "Jimmy_Carter",
+            "Hu_Jintao",
+            "James_Cameron",
+            "Robert_Oppenheimer",
+            "Michail_Wladimirowitsch_Mischustin",
+            "Michail_Maratowitsch_Fridman"
+        ],
+        "top_clicks": [
+            260361.0,
+            193200.0,
+            126107.0,
+            115079.0,
+            97190.0,
+            84659.0,
+            80799.0,
+            64688.0,
+            63039.0,
+            61741.0
+        ]
+    },
+    "Q208850": {
+        "top_entities": [
+            "Q17150",
+            "Q1248594",
+            "Q108054772",
+            "Q64083878",
+            "Q17452",
+            "Q92464687",
+            "Q179247",
+            "Q18345138",
+            "Q837931",
+            "Q27950674"
+        ],
+        "top_labels": [
+            "Uncharted:_Drakes_Schicksal",
+            "Resident_Evil_(Computerspiel)",
+            "Call_of_Duty:_Vanguard",
+            "Call_of_Duty:_Modern_Warfare_(2019)",
+            "Grand_Theft_Auto_V",
+            "Assassin’s_Creed_Valhalla",
+            "The_Secret_of_Monkey_Island",
+            "God_of_War_(2018)",
+            "Need_for_Speed:_Hot_Pursuit",
+            "The_Last_of_Us_Part_II"
+        ],
+        "top_clicks": [
+            28426.0,
+            26753.0,
+            26103.0,
+            25623.0,
+            24209.0,
+            23798.0,
+            23354.0,
+            22897.0,
+            21175.0,
+            19587.0
+        ]
+    },
+    "Q170790": {
+        "top_entities": [
+            "Q311019",
+            "Q128736",
+            "Q40904",
+            "Q762",
+            "Q9312",
+            "Q5580",
+            "Q935",
+            "Q117346",
+            "Q6722",
+            "Q8743"
+        ],
+        "top_labels": [
+            "Boris_Abramowitsch_Beresowski",
+            "John_Forbes_Nash_Jr.",
+            "Werner_Heisenberg",
+            "Leonardo_da_Vinci",
+            "Immanuel_Kant",
+            "Albrecht_Dürer",
+            "Isaac_Newton",
+            "Grigori_Jakowlewitsch_Perelman",
+            "Carl_Friedrich_Gauß",
+            "Thomas_Alva_Edison"
+        ],
+        "top_clicks": [
+            64024.0,
+            53263.0,
+            51261.0,
+            50395.0,
+            41434.0,
+            37170.0,
+            36037.0,
+            35201.0,
+            32789.0,
+            31484.0
+        ]
+    },
+    "Q901": {
+        "top_entities": [
+            "Q762",
+            "Q34358",
+            "Q139890",
+            "Q6694",
+            "Q307",
+            "Q58978",
+            "Q336",
+            "Q79037",
+            "Q7604",
+            "Q150827"
+        ],
+        "top_labels": [
+            "Leonardo_da_Vinci",
+            "Der_Doktor",
+            "Zack_Snyder",
+            "Alexander_von_Humboldt",
+            "Galileo_Galilei",
+            "Max_Born",
+            "Wissenschaft",
+            "Spider-Man",
+            "Leonhard_Euler",
+            "Frankenstein_(Roman)"
+        ],
+        "top_clicks": [
+            50395.0,
+            44700.0,
+            36359.0,
+            32758.0,
+            31098.0,
+            27267.0,
+            27045.0,
+            26762.0,
+            23746.0,
+            19764.0
+        ]
+    },
+    "Q4964182": {
+        "top_entities": [
+            "Q2494",
+            "Q989",
+            "Q106775",
+            "Q5879",
+            "Q5816",
+            "Q33391",
+            "Q9061",
+            "Q1430",
+            "Q1001",
+            "Q16397"
+        ],
+        "top_labels": [
+            "Benedikt_XVI.",
+            "Johannes_Paul_II.",
+            "Richard_Harris",
+            "Johann_Wolfgang_von_Goethe",
+            "Mao_Zedong",
+            "Leo_Trotzki",
+            "Karl_Marx",
+            "Mark_Aurel",
+            "Mohandas_Karamchand_Gandhi",
+            "Bruce_Lee"
+        ],
+        "top_clicks": [
+            161791.0,
+            115179.0,
+            114033.0,
+            94128.0,
+            90205.0,
+            70458.0,
+            63894.0,
+            62814.0,
+            59946.0,
+            57438.0
+        ]
+    },
+    "Q2066131": {
+        "top_entities": [
+            "Q18797",
+            "Q19364345",
+            "Q44158",
+            "Q1548144",
+            "Q1000592",
+            "Q242201",
+            "Q159577",
+            "Q4956829",
+            "Q1968959",
+            "Q157847"
+        ],
+        "top_labels": [
+            "Wladimir_Klitschko",
+            "Katerina_Wladimirowna_Tichonowa",
+            "Dave_Bautista",
+            "Joey_Kelly",
+            "Tyson_Fury",
+            "Ronda_Rousey",
+            "Jet_Li",
+            "Brandon_Curry",
+            "Raymond_van_Barneveld",
+            "Toni_Schumacher_(Fußballspieler,_1954)"
+        ],
+        "top_clicks": [
+            330131.0,
+            184405.0,
+            114052.0,
+            75430.0,
+            40496.0,
+            38259.0,
+            37254.0,
+            32687.0,
+            21195.0,
+            18615.0
+        ]
+    },
+    "Q486748": {
+        "top_entities": [
+            "Q2494",
+            "Q15869",
+            "Q1622098",
+            "Q270935",
+            "Q484523",
+            "Q1203",
+            "Q2599",
+            "Q15873",
+            "Q1511",
+            "Q202859"
+        ],
+        "top_labels": [
+            "Benedikt_XVI.",
+            "Freddie_Mercury",
+            "Tom_Kaulitz",
+            "Chris_Cornell",
+            "Jared_Leto",
+            "John_Lennon",
+            "Paul_McCartney",
+            "Brian_May",
+            "Richard_Wagner",
+            "Flea_(Musiker)"
+        ],
+        "top_clicks": [
+            161791.0,
+            153287.0,
+            144047.0,
+            141481.0,
+            132789.0,
+            114016.0,
+            113637.0,
+            109825.0,
+            107447.0,
+            98004.0
+        ]
+    },
+    "Q82594": {
+        "top_entities": [
+            "Q705525",
+            "Q901670",
+            "Q312556",
+            "Q19837",
+            "Q4934",
+            "Q92764",
+            "Q312663",
+            "Q483382",
+            "Q36215",
+            "Q7251"
+        ],
+        "top_labels": [
+            "Peter_Thiel",
+            "Daniel_Ek",
+            "Jeff_Bezos",
+            "Steve_Jobs",
+            "Larry_Page",
+            "Sergey_Brin",
+            "Eduardo_Saverin",
+            "Steve_Wozniak",
+            "Mark_Zuckerberg",
+            "Alan_Turing"
+        ],
+        "top_clicks": [
+            99199.0,
+            77453.0,
+            71357.0,
+            55466.0,
+            52804.0,
+            45993.0,
+            45786.0,
+            45673.0,
+            44630.0,
+            44624.0
+        ]
+    },
+    "Q506240": {
+        "top_entities": [
+            "Q109263400",
+            "Q872548",
+            "Q1093673",
+            "Q832471",
+            "Q706367",
+            "Q1426605",
+            "Q946562",
+            "Q818968",
+            "Q34200777",
+            "Q96031360"
+        ],
+        "top_labels": [
+            "Die_Wannseekonferenz_(2022)",
+            "Tatort:_Reifezeugnis",
+            "Im_Westen_nichts_Neues_(1979)",
+            "Die_Wannseekonferenz_(1984)",
+            "Die_Wannseekonferenz_(2001)",
+            "Titanic_(1996)",
+            "Kevin_–_Allein_gegen_alle",
+            "Hitler_–_Aufstieg_des_Bösen",
+            "Sharknado_5:_Global_Swarming",
+            "Aya_und_die_Hexe"
+        ],
+        "top_clicks": [
+            106561.0,
+            40749.0,
+            30862.0,
+            25755.0,
+            24322.0,
+            23630.0,
+            23187.0,
+            20642.0,
+            19138.0,
+            19092.0
+        ]
+    },
+    "Q855091": {
+        "top_entities": [
+            "Q37175",
+            "Q106514",
+            "Q15869",
+            "Q165644",
+            "Q1622098",
+            "Q270935",
+            "Q3626966",
+            "Q712860",
+            "Q77040",
+            "Q484523"
+        ],
+        "top_labels": [
+            "Johnny_Depp",
+            "River_Phoenix",
+            "Freddie_Mercury",
+            "Paul_Landers",
+            "Tom_Kaulitz",
+            "Chris_Cornell",
+            "Harry_Styles",
+            "Chris_Martin",
+            "Richard_Kruspe",
+            "Jared_Leto"
+        ],
+        "top_clicks": [
+            223385.0,
+            160209.0,
+            153287.0,
+            145345.0,
+            144047.0,
+            141481.0,
+            140105.0,
+            138167.0,
+            137569.0,
+            132789.0
+        ]
+    },
+    "Q864503": {
+        "top_entities": [
+            "Q70307",
+            "Q19816371",
+            "Q37193",
+            "Q57089",
+            "Q9047",
+            "Q1043",
+            "Q183337",
+            "Q420",
+            "Q76432",
+            "Q234224"
+        ],
+        "top_labels": [
+            "Mark_Benecke",
+            "Marija_Wladimirowna_Woronzowa",
+            "Robert_Koch",
+            "Paul_Ehrlich",
+            "Gottfried_Wilhelm_Leibniz",
+            "Carl_von_Linné",
+            "David_Attenborough",
+            "Biologie",
+            "Rudolf_Virchow",
+            "Dian_Fossey"
+        ],
+        "top_clicks": [
+            54614.0,
+            39090.0,
+            33080.0,
+            29757.0,
+            27065.0,
+            24373.0,
+            21612.0,
+            19797.0,
+            17604.0,
+            16781.0
+        ]
+    },
+    "Q1238570": {
+        "top_entities": [
+            "Q2518",
+            "Q66107",
+            "Q438839",
+            "Q1682774",
+            "Q1744408",
+            "Q60025",
+            "Q34296",
+            "Q47216",
+            "Q71534",
+            "Q43723"
+        ],
+        "top_labels": [
+            "Helmut_Kohl",
+            "Henry_Kissinger",
+            "Alexander_Geljewitsch_Dugin",
+            "Janine_Wissler",
+            "Klara_Geywitz",
+            "Hannah_Arendt",
+            "Woodrow_Wilson",
+            "Condoleezza_Rice",
+            "Hubertus_Heil",
+            "Benjamin_Netanjahu"
+        ],
+        "top_clicks": [
+            78808.0,
+            56070.0,
+            43360.0,
+            34812.0,
+            34256.0,
+            31421.0,
+            30533.0,
+            24753.0,
+            23372.0,
+            21894.0
+        ]
+    },
+    "Q10833314": {
+        "top_entities": [
+            "Q280856",
+            "Q5812",
+            "Q1426",
+            "Q11459",
+            "Q11578",
+            "Q11662",
+            "Q10132",
+            "Q76334",
+            "Q7407",
+            "Q13990552"
+        ],
+        "top_labels": [
+            "Georg_VI._(Vereinigtes_Königreich)",
+            "Novak_Đoković",
+            "Roger_Federer",
+            "Serena_Williams",
+            "Venus_Williams",
+            "Steffi_Graf",
+            "Rafael_Nadal",
+            "Boris_Becker",
+            "Andre_Agassi",
+            "Alexander_Zverev"
+        ],
+        "top_clicks": [
+            574129.0,
+            148867.0,
+            136699.0,
+            120466.0,
+            102744.0,
+            99273.0,
+            73892.0,
+            64018.0,
+            57217.0,
+            56755.0
+        ]
+    },
+    "Q959790": {
+        "top_entities": [
+            "Q47300912",
+            "Q56816969",
+            "Q57982486",
+            "Q23780457",
+            "Q20707362",
+            "Q84712797",
+            "Q151904",
+            "Q163872",
+            "Q27689100",
+            "Q82396632"
+        ],
+        "top_labels": [
+            "Once_Upon_a_Time_in_Hollywood",
+            "Tod_auf_dem_Nil_(2022)",
+            "Knives_Out_–_Mord_ist_Familiensache",
+            "Kingsman:_The_Golden_Circle",
+            "The_Crown_(Fernsehserie)",
+            "Glass_Onion:_A_Knives_Out_Mystery",
+            "James_Bond_007:_Casino_Royale",
+            "The_Dark_Knight",
+            "Mord_im_Orient_Express_(2017)",
+            "Inventing_Anna"
+        ],
+        "top_clicks": [
+            181722.0,
+            152445.0,
+            123546.0,
+            122986.0,
+            121249.0,
+            115850.0,
+            115460.0,
+            104884.0,
+            88392.0,
+            87562.0
+        ]
+    },
+    "Q6895044": {
+        "top_entities": [
+            "Q108054772",
+            "Q64083878",
+            "Q17452",
+            "Q837931",
+            "Q223341",
+            "Q27438121",
+            "Q1757876",
+            "Q64826862",
+            "Q748317",
+            "Q20112508"
+        ],
+        "top_labels": [
+            "Call_of_Duty:_Vanguard",
+            "Call_of_Duty:_Modern_Warfare_(2019)",
+            "Grand_Theft_Auto_V",
+            "Need_for_Speed:_Hot_Pursuit",
+            "League_of_Legends",
+            "Red_Dead_Redemption_2",
+            "Tomb_Raider_(2013)",
+            "Elden_Ring",
+            "Return_to_Castle_Wolfenstein",
+            "Dark_Souls_III"
+        ],
+        "top_clicks": [
+            26103.0,
+            25623.0,
+            24209.0,
+            21175.0,
+            19296.0,
+            17030.0,
+            16334.0,
+            16232.0,
+            15819.0,
+            15489.0
+        ]
+    },
+    "Q188473": {
+        "top_entities": [
+            "Q68934496",
+            "Q21534241",
+            "Q65768604",
+            "Q64211112",
+            "Q23781155",
+            "Q110138",
+            "Q31202708",
+            "Q23894629",
+            "Q61633664",
+            "Q27985819"
+        ],
+        "top_labels": [
+            "Spider-Man:_No_Way_Home",
+            "James_Bond_007:_Keine_Zeit_zu_sterben",
+            "Thor:_Love_and_Thunder",
+            "Doctor_Strange_in_the_Multiverse_of_Madness",
+            "Avengers:_Endgame",
+            "Top_Gun_–_Sie_fürchten_weder_Tod_noch_Teufel",
+            "Top_Gun:_Maverick",
+            "Eternals_(Film)",
+            "The_King’s_Man:_The_Beginning",
+            "Spider-Man:_Far_From_Home"
+        ],
+        "top_clicks": [
+            305310.0,
+            296853.0,
+            262164.0,
+            238051.0,
+            231717.0,
+            231699.0,
+            217792.0,
+            208682.0,
+            183083.0,
+            181318.0
+        ]
+    },
+    "Q1054574": {
+        "top_entities": [
+            "Q110138",
+            "Q59551547",
+            "Q44578",
+            "Q25128",
+            "Q3286391",
+            "Q63643994",
+            "Q846679",
+            "Q19347583",
+            "Q16997069",
+            "Q1586077"
+        ],
+        "top_labels": [
+            "Top_Gun_–_Sie_fürchten_weder_Tod_noch_Teufel",
+            "The_French_Dispatch",
+            "Titanic_(1997)",
+            "Sturm_der_Liebe",
+            "A_Star_Is_Born_(2018)",
+            "West_Side_Story_(2021)",
+            "Karate_Kid_(1984)",
+            "The_Danish_Girl",
+            "Die_Bestimmung_–_Insurgent",
+            "Karate_Kid_III_–_Die_letzte_Entscheidung"
+        ],
+        "top_clicks": [
+            231699.0,
+            94548.0,
+            88274.0,
+            77939.0,
+            61186.0,
+            51041.0,
+            51019.0,
+            49130.0,
+            47343.0,
+            46849.0
+        ]
+    },
+    "Q15981151": {
+        "top_entities": [
+            "Q43203",
+            "Q171363",
+            "Q259760",
+            "Q144622",
+            "Q216051",
+            "Q40912",
+            "Q4636",
+            "Q48187",
+            "Q215359",
+            "Q193645"
+        ],
+        "top_labels": [
+            "Clint_Eastwood",
+            "Viggo_Mortensen",
+            "Michelle_Dockery",
+            "Phil_Collins",
+            "Charlie_Watts",
+            "Frank_Sinatra",
+            "Barbra_Streisand",
+            "Eric_Clapton",
+            "Dean_Martin",
+            "Quincy_Jones"
+        ],
+        "top_clicks": [
+            136639.0,
+            94932.0,
+            94176.0,
+            73804.0,
+            69306.0,
+            66097.0,
+            60555.0,
+            53718.0,
+            46089.0,
+            43318.0
+        ]
+    },
+    "Q1093829": {
+        "top_entities": [
+            "Q60",
+            "Q61",
+            "Q65",
+            "Q62",
+            "Q100",
+            "Q47265",
+            "Q43196",
+            "Q23556",
+            "Q5083",
+            "Q49111"
+        ],
+        "top_labels": [
+            "New_York_City",
+            "Washington,_D.C.",
+            "Los_Angeles",
+            "San_Francisco",
+            "Boston",
+            "Palo_Alto",
+            "Cincinnati",
+            "Atlanta",
+            "Seattle",
+            "Cambridge_(Massachusetts)"
+        ],
+        "top_clicks": [
+            123444.0,
+            80663.0,
+            75474.0,
+            30236.0,
+            29415.0,
+            27234.0,
+            26084.0,
+            25903.0,
+            24083.0,
+            23998.0
+        ]
+    },
+    "Q1366112": {
+        "top_entities": [
+            "Q23572",
+            "Q19798734",
+            "Q20707362",
+            "Q14944179",
+            "Q28443710",
+            "Q1079",
+            "Q104396610",
+            "Q147235",
+            "Q72930269",
+            "Q47500433"
+        ],
+        "top_labels": [
+            "Game_of_Thrones",
+            "Stranger_Things",
+            "The_Crown_(Fernsehserie)",
+            "Peaky_Blinders_–_Gangs_of_Birmingham",
+            "Dark_(Fernsehserie)",
+            "Breaking_Bad",
+            "Das_Buch_von_Boba_Fett",
+            "How_I_Met_Your_Mother",
+            "House_of_the_Dragon",
+            "The_Witcher_(Fernsehserie)"
+        ],
+        "top_clicks": [
+            273655.0,
+            208752.0,
+            121249.0,
+            90329.0,
+            83469.0,
+            80454.0,
+            79722.0,
+            75376.0,
+            75142.0,
+            69199.0
+        ]
+    },
+    "Q200092": {
+        "top_entities": [
+            "Q64211112",
+            "Q722682",
+            "Q103569",
+            "Q20430699",
+            "Q21869840",
+            "Q221103",
+            "Q67279679",
+            "Q161400",
+            "Q83542",
+            "Q1210947"
+        ],
+        "top_labels": [
+            "Doctor_Strange_in_the_Multiverse_of_Madness",
+            "Hannibal_(2001)",
+            "Alien_–_Das_unheimliche_Wesen_aus_einer_fremden_Welt",
+            "Alien:_Covenant",
+            "Split_(Film)",
+            "Halloween_–_Die_Nacht_des_Grauens",
+            "Halloween_Kills",
+            "Resident_Evil:_Apocalypse",
+            "Resident_Evil:_Retribution",
+            "Addams_Family_(1991)"
+        ],
+        "top_clicks": [
+            238051.0,
+            75520.0,
+            75096.0,
+            72298.0,
+            68572.0,
+            67589.0,
+            64207.0,
+            63621.0,
+            61548.0,
+            60996.0
+        ]
+    },
+    "Q2252262": {
+        "top_entities": [
+            "Q185140",
+            "Q15277032",
+            "Q164119",
+            "Q6078",
+            "Q171905",
+            "Q1354843",
+            "Q179157",
+            "Q6107",
+            "Q76524",
+            "Q58049"
+        ],
+        "top_labels": [
+            "Joaquin_Phoenix",
+            "August_Alsina",
+            "Mark_Wahlberg",
+            "Dr._Dre",
+            "Jamie_Foxx",
+            "Machine_Gun_Kelly_(Rapper)",
+            "The_Notorious_B.I.G.",
+            "Tupac_Shakur",
+            "Peter_Fox",
+            "H._P._Baxxter"
+        ],
+        "top_clicks": [
+            137277.0,
+            101192.0,
+            99705.0,
+            94654.0,
+            93465.0,
+            89222.0,
+            78536.0,
+            77661.0,
+            76103.0,
+            74749.0
+        ]
+    },
+    "Q49085": {
+        "top_entities": [
+            "Q30",
+            "Q228787",
+            "Q11459",
+            "Q40096",
+            "Q2831",
+            "Q11578",
+            "Q171905",
+            "Q48337",
+            "Q5928",
+            "Q42101"
+        ],
+        "top_labels": [
+            "Vereinigte_Staaten",
+            "Jada_Pinkett_Smith",
+            "Serena_Williams",
+            "Will_Smith",
+            "Michael_Jackson",
+            "Venus_Williams",
+            "Jamie_Foxx",
+            "Morgan_Freeman",
+            "Jimi_Hendrix",
+            "Denzel_Washington"
+        ],
+        "top_clicks": [
+            635951.0,
+            123736.0,
+            120466.0,
+            109970.0,
+            104927.0,
+            102744.0,
+            93465.0,
+            86494.0,
+            84764.0,
+            79825.0
+        ]
+    },
+    "Q729": {
+        "top_entities": [
+            "Q9715",
+            "Q430",
+            "Q151542",
+            "Q676555",
+            "Q81875",
+            "Q666",
+            "Q187483",
+            "Q5173",
+            "Q7370337",
+            "Q5174"
+        ],
+        "top_labels": [
+            "Sperma",
+            "Dinosaurier",
+            "Vielzellige_Tiere",
+            "Franz_von_Assisi",
+            "Fleischfresser",
+            "Sechshundertsechsundsechzig",
+            "Teppich_von_Bayeux",
+            "Bilateria",
+            "Humane_Rotaviren",
+            "Gewebetiere"
+        ],
+        "top_clicks": [
+            41864.0,
+            40671.0,
+            23556.0,
+            19625.0,
+            16325.0,
+            16079.0,
+            15286.0,
+            14888.0,
+            12979.0,
+            12578.0
+        ]
+    },
+    "Q862086": {
+        "top_entities": [
+            "Q408",
+            "Q836",
+            "Q36747",
+            "Q392316",
+            "Q1568",
+            "Q1123830",
+            "Q58635",
+            "Q7348",
+            "Q327293",
+            "Q1131291"
+        ],
+        "top_labels": [
+            "Australien",
+            "Myanmar",
+            "Indianer",
+            "First_Nations",
+            "Hindi",
+            "Vagina_dentata",
+            "Panjabi",
+            "Indus",
+            "Anish_Kapoor",
+            "Bergentrückung"
+        ],
+        "top_clicks": [
+            148736.0,
+            48758.0,
+            29848.0,
+            17924.0,
+            16455.0,
+            12047.0,
+            8923.0,
+            7101.0,
+            3521.0,
+            3492.0
+        ]
+    },
+    "Q188451": {
+        "top_entities": [
+            "Q213572",
+            "Q274401",
+            "Q263734",
+            "Q6010",
+            "Q646679",
+            "Q320592",
+            "Q851213",
+            "Q216961",
+            "Q959583",
+            "Q3071"
+        ],
+        "top_labels": [
+            "Neue_Deutsche_Härte",
+            "Oi!",
+            "Nu_Metal",
+            "Rap",
+            "Neue_Deutsche_Welle",
+            "Krautrock",
+            "Elektronische_Tanzmusik",
+            "Eurodance",
+            "Schlager",
+            "Punk_(Musik)"
+        ],
+        "top_clicks": [
+            79113.0,
+            41695.0,
+            35136.0,
+            31141.0,
+            26357.0,
+            25341.0,
+            23743.0,
+            23668.0,
+            23045.0,
+            22314.0
+        ]
+    },
+    "Q319221": {
+        "top_entities": [
+            "Q68934496",
+            "Q65768604",
+            "Q64211112",
+            "Q23781155",
+            "Q18199332",
+            "Q37175",
+            "Q18199331",
+            "Q23894629",
+            "Q102438",
+            "Q61633664"
+        ],
+        "top_labels": [
+            "Spider-Man:_No_Way_Home",
+            "Thor:_Love_and_Thunder",
+            "Doctor_Strange_in_the_Multiverse_of_Madness",
+            "Avengers:_Endgame",
+            "Phantastische_Tierwesen:_Dumbledores_Geheimnisse",
+            "Johnny_Depp",
+            "Phantastische_Tierwesen:_Grindelwalds_Verbrechen",
+            "Eternals_(Film)",
+            "Harry_Potter_und_der_Stein_der_Weisen_(Film)",
+            "The_King’s_Man:_The_Beginning"
+        ],
+        "top_clicks": [
+            305310.0,
+            262164.0,
+            238051.0,
+            231717.0,
+            228902.0,
+            223385.0,
+            222497.0,
+            208682.0,
+            207690.0,
+            183083.0
+        ]
+    },
+    "Q202866": {
+        "top_entities": [
+            "Q4488",
+            "Q8704",
+            "Q182950",
+            "Q30933418",
+            "Q65250765",
+            "Q637212",
+            "Q29588607",
+            "Q60997779",
+            "Q24733929",
+            "Q15632949"
+        ],
+        "top_labels": [
+            "Clancy_Brown",
+            "Walt_Disney",
+            "Studio_Ghibli",
+            "Sing_–_Die_Show_deines_Lebens",
+            "Star_Trek:_Prodigy",
+            "Ich_–_Einfach_unverbesserlich_2",
+            "Spider-Man:_A_New_Universe",
+            "Minions_–_Auf_der_Suche_nach_dem_Mini-Boss",
+            "Die_Eiskönigin_II",
+            "Der_Grinch_(2018)"
+        ],
+        "top_clicks": [
+            73714.0,
+            42013.0,
+            39409.0,
+            36610.0,
+            32673.0,
+            26362.0,
+            25914.0,
+            22105.0,
+            21477.0,
+            17263.0
+        ]
+    },
+    "Q386854": {
+        "top_entities": [
+            "Q57168",
+            "Q77462",
+            "Q331748",
+            "Q2599",
+            "Q12006",
+            "Q2632",
+            "Q312395",
+            "Q106193",
+            "Q144622",
+            "Q15291033"
+        ],
+        "top_labels": [
+            "Christoph_Schneider",
+            "Bela_B",
+            "Tommy_Lee",
+            "Paul_McCartney",
+            "Dave_Grohl",
+            "Ringo_Starr",
+            "Taylor_Hawkins",
+            "Lars_Ulrich",
+            "Phil_Collins",
+            "FKA_Twigs"
+        ],
+        "top_clicks": [
+            133838.0,
+            133485.0,
+            125238.0,
+            113637.0,
+            113496.0,
+            102642.0,
+            92587.0,
+            74329.0,
+            73804.0,
+            72809.0
+        ]
+    },
+    "Q3501317": {
+        "top_entities": [
+            "Q186304",
+            "Q228766",
+            "Q170576",
+            "Q1770624",
+            "Q60036",
+            "Q193458",
+            "Q122020",
+            "Q155041",
+            "Q40715",
+            "Q575689"
+        ],
+        "top_labels": [
+            "Kim_Kardashian",
+            "Rooney_Mara",
+            "Milla_Jovovich",
+            "Kylie_Jenner",
+            "Heidi_Klum",
+            "Sienna_Miller",
+            "Hilary_Duff",
+            "Bill_Kaulitz",
+            "Jennifer_Lopez",
+            "Kourtney_Kardashian"
+        ],
+        "top_clicks": [
+            152673.0,
+            121441.0,
+            100232.0,
+            99258.0,
+            98425.0,
+            95116.0,
+            86467.0,
+            85373.0,
+            84395.0,
+            81990.0
+        ]
+    },
+    "Q369747": {
+        "top_entities": [
+            "Q62730",
+            "Q153723",
+            "Q19590955",
+            "Q108837349",
+            "Q152857",
+            "Q275120",
+            "Q20502242",
+            "Q21935651",
+            "Q33408623",
+            "Q10307713"
+        ],
+        "top_labels": [
+            "Das_Boot_(Film)",
+            "Inglourious_Basterds",
+            "Rogue_One:_A_Star_Wars_Story",
+            "Im_Westen_nichts_Neues_(2022)",
+            "Der_Untergang",
+            "Captain_America:_The_First_Avenger",
+            "Wonder_Woman_(2017)",
+            "Dunkirk_(2017)",
+            "Wonder_Woman_1984",
+            "Die_Tribute_von_Panem_–_Mockingjay_Teil_2"
+        ],
+        "top_clicks": [
+            127746.0,
+            127634.0,
+            107121.0,
+            105774.0,
+            89873.0,
+            85027.0,
+            77258.0,
+            71653.0,
+            63360.0,
+            62116.0
+        ]
+    },
+    "Q270948": {
+        "top_entities": [
+            "Q27950674",
+            "Q748317",
+            "Q96216515",
+            "Q842146",
+            "Q24666782",
+            "Q21030988",
+            "Q771541",
+            "Q10865101",
+            "Q203310",
+            "Q1422746"
+        ],
+        "top_labels": [
+            "The_Last_of_Us_Part_II",
+            "Return_to_Castle_Wolfenstein",
+            "Resident_Evil_Village",
+            "Counter-Strike:_Global_Offensive",
+            "Death_Stranding",
+            "Survival-Spiel",
+            "Dota_2",
+            "S.T.A.L.K.E.R._2:_Heart_of_Chornobyl",
+            "Doom_3",
+            "Action-Rollenspiel"
+        ],
+        "top_clicks": [
+            19587.0,
+            15819.0,
+            13136.0,
+            8577.0,
+            7841.0,
+            7443.0,
+            6680.0,
+            4637.0,
+            4452.0,
+            4412.0
+        ]
+    },
+    "Q1200678": {
+        "top_entities": [
+            "Q56816969",
+            "Q57982486",
+            "Q84712797",
+            "Q27689100",
+            "Q1059914",
+            "Q192934",
+            "Q65032692",
+            "Q19481099",
+            "Q25188",
+            "Q323392"
+        ],
+        "top_labels": [
+            "Tod_auf_dem_Nil_(2022)",
+            "Knives_Out_–_Mord_ist_Familiensache",
+            "Glass_Onion:_A_Knives_Out_Mystery",
+            "Mord_im_Orient_Express_(2017)",
+            "Tod_auf_dem_Nil_(1978)",
+            "Illuminati_(Film)",
+            "Enola_Holmes_(Film)",
+            "Jason_Bourne_(Film)",
+            "Inception",
+            "Scream_4"
+        ],
+        "top_clicks": [
+            152445.0,
+            123546.0,
+            115850.0,
+            88392.0,
+            68171.0,
+            59941.0,
+            58169.0,
+            56973.0,
+            55822.0,
+            54611.0
+        ]
+    },
+    "Q5482740": {
+        "top_entities": [
+            "Q317521",
+            "Q483382",
+            "Q36215",
+            "Q5284",
+            "Q162005",
+            "Q13382352",
+            "Q335552",
+            "Q64876086",
+            "Q360",
+            "Q7259"
+        ],
+        "top_labels": [
+            "Elon_Musk",
+            "Steve_Wozniak",
+            "Mark_Zuckerberg",
+            "Bill_Gates",
+            "Paul_Allen",
+            "Satoshi_Nakamoto",
+            "Jack_Dorsey",
+            "Eugen_Rochko",
+            "Julian_Assange",
+            "Ada_Lovelace"
+        ],
+        "top_clicks": [
+            193200.0,
+            45673.0,
+            44630.0,
+            40254.0,
+            37702.0,
+            29654.0,
+            28573.0,
+            27155.0,
+            24952.0,
+            20243.0
+        ]
+    },
+    "Q9335576": {
+        "top_entities": [
+            "Q105553568",
+            "Q79784",
+            "Q23599",
+            "Q465616",
+            "Q130585",
+            "Q2659146",
+            "Q65250765",
+            "Q104007235",
+            "Q62573569",
+            "Q886"
+        ],
+        "top_labels": [
+            "Wednesday_(Fernsehserie)",
+            "Friends",
+            "Shameless_(US-amerikanische_Fernsehserie)",
+            "Jackass",
+            "Supernatural",
+            "Ein_Colt_für_alle_Fälle",
+            "Star_Trek:_Prodigy",
+            "Only_Murders_in_the_Building",
+            "Star_Trek:_Lower_Decks",
+            "Die_Simpsons"
+        ],
+        "top_clicks": [
+            102016.0,
+            86856.0,
+            49387.0,
+            48779.0,
+            43556.0,
+            39125.0,
+            32673.0,
+            30547.0,
+            27869.0,
+            26873.0
+        ]
+    },
+    "Q2143665": {
+        "top_entities": [
+            "Q102438",
+            "Q18199330",
+            "Q102448",
+            "Q102225",
+            "Q102235",
+            "Q102244",
+            "Q316555",
+            "Q131864",
+            "Q557990",
+            "Q105031"
+        ],
+        "top_labels": [
+            "Harry_Potter_und_der_Stein_der_Weisen_(Film)",
+            "Phantastische_Tierwesen_und_wo_sie_zu_finden_sind_(Film)",
+            "Harry_Potter_und_der_Gefangene_von_Askaban_(Film)",
+            "Harry_Potter_und_der_Feuerkelch_(Film)",
+            "Harry_Potter_und_der_Orden_des_Phönix_(Film)",
+            "Harry_Potter_und_die_Kammer_des_Schreckens_(Film)",
+            "Die_unendliche_Geschichte_(Film)",
+            "Der_Grinch_(2000)",
+            "Immer_dieser_Michel_1._–_Michel_in_der_Suppenschüssel",
+            "Kevin_–_Allein_zu_Haus"
+        ],
+        "top_clicks": [
+            207690.0,
+            180940.0,
+            140771.0,
+            117898.0,
+            112799.0,
+            73734.0,
+            50276.0,
+            44876.0,
+            38516.0,
+            35195.0
+        ]
+    },
+    "Q17013749": {
+        "top_entities": [
+            "Q62730",
+            "Q152857",
+            "Q128518",
+            "Q312531",
+            "Q87126244",
+            "Q313588",
+            "Q256164",
+            "Q85000980",
+            "Q159054",
+            "Q56551019"
+        ],
+        "top_labels": [
+            "Das_Boot_(Film)",
+            "Der_Untergang",
+            "Gladiator_(Film)",
+            "Thomas_Brodie-Sangster",
+            "The_Northman",
+            "Oliver_Reed",
+            "Derek_Jacobi",
+            "The_Last_Duel",
+            "Operation_Walküre_–_Das_Stauffenberg-Attentat",
+            "Midway_–_Für_die_Freiheit"
+        ],
+        "top_clicks": [
+            127746.0,
+            89873.0,
+            61091.0,
+            60908.0,
+            55951.0,
+            49755.0,
+            47047.0,
+            45196.0,
+            44579.0,
+            42816.0
+        ]
+    },
+    "Q28692502": {
+        "top_entities": [
+            "Q65123",
+            "Q230654",
+            "Q407",
+            "Q219353",
+            "Q62919",
+            "Q34787",
+            "Q83396",
+            "Q40933",
+            "Q11093",
+            "Q75823"
+        ],
+        "top_labels": [
+            "Gudrun_Ensslin",
+            "Maria_Shriver",
+            "Linda_Lovelace",
+            "Rosalynn_Carter",
+            "Alice_Schwarzer",
+            "Friedrich_Engels",
+            "Eleanor_Roosevelt",
+            "Eva_Perón",
+            "Valerie_Solanas",
+            "Clara_Zetkin"
+        ],
+        "top_clicks": [
+            72398.0,
+            48605.0,
+            39314.0,
+            38075.0,
+            33801.0,
+            29384.0,
+            28213.0,
+            27780.0,
+            21356.0,
+            20612.0
+        ]
+    },
+    "Q756": {
+        "top_entities": [
+            "Q764",
+            "Q3253234",
+            "Q25814",
+            "Q29993",
+            "Q283604",
+            "Q41500",
+            "Q28692",
+            "Q3561192",
+            "Q18240",
+            "Q11992872"
+        ],
+        "top_labels": [
+            "Pilze",
+            "Liste_von_Pflanzen_mit_psychotropen_Wirkstoffen",
+            "Samenpflanzen",
+            "Moose",
+            "C4-Pflanze",
+            "Wurzel_(Pflanze)",
+            "Anis",
+            "Flavonoide",
+            "Fleischfressende_Pflanzen",
+            "Nutzpflanze"
+        ],
+        "top_clicks": [
+            27769.0,
+            15819.0,
+            14269.0,
+            12182.0,
+            10989.0,
+            10265.0,
+            9737.0,
+            9627.0,
+            8516.0,
+            8475.0
+        ]
+    },
+    "Q11696": {
+        "top_entities": [
+            "Q30",
+            "Q22686",
+            "Q9696",
+            "Q6279",
+            "Q8007",
+            "Q23685",
+            "Q11211",
+            "Q23505",
+            "Q9960",
+            "Q207"
+        ],
+        "top_labels": [
+            "Vereinigte_Staaten",
+            "Donald_Trump",
+            "John_F._Kennedy",
+            "Joe_Biden",
+            "Franklin_D._Roosevelt",
+            "Jimmy_Carter",
+            "Streitkräfte_der_Vereinigten_Staaten",
+            "George_H._W._Bush",
+            "Ronald_Reagan",
+            "George_W._Bush"
+        ],
+        "top_clicks": [
+            635951.0,
+            122897.0,
+            120330.0,
+            109799.0,
+            107922.0,
+            97190.0,
+            93057.0,
+            90210.0,
+            83770.0,
+            75223.0
+        ]
+    },
+    "Q846570": {
+        "top_entities": [
+            "Q232414",
+            "Q150482",
+            "Q56095",
+            "Q160278",
+            "Q229714",
+            "Q8743",
+            "Q49085",
+            "Q1146100",
+            "Q22915129",
+            "Q15133865"
+        ],
+        "top_labels": [
+            "Lisa_Bonet",
+            "J._K._Simmons",
+            "Ethan_und_Joel_Coen",
+            "John_D._Rockefeller",
+            "Julianna_Margulies",
+            "Thomas_Alva_Edison",
+            "Afroamerikaner",
+            "Sinoamerikaner",
+            "Dorothy_Vaughan",
+            "Staatsbürgerschaft_der_Vereinigten_Staaten"
+        ],
+        "top_clicks": [
+            157757.0,
+            93165.0,
+            73625.0,
+            47390.0,
+            37883.0,
+            31484.0,
+            20965.0,
+            20902.0,
+            14032.0,
+            9518.0
+        ]
+    },
+    "Q42406": {
+        "top_entities": [
+            "Q208026",
+            "Q408",
+            "Q43203",
+            "Q20882479",
+            "Q134333",
+            "Q166389",
+            "Q3335",
+            "Q935",
+            "Q254911",
+            "Q154594"
+        ],
+        "top_labels": [
+            "Tom_Hardy",
+            "Australien",
+            "Clint_Eastwood",
+            "Anya_Taylor-Joy",
+            "Roger_Moore",
+            "Daniel_Day-Lewis",
+            "George_Orwell",
+            "Isaac_Newton",
+            "Angel_Coulby",
+            "Lucian_Freud"
+        ],
+        "top_clicks": [
+            152548.0,
+            148736.0,
+            136639.0,
+            134143.0,
+            93470.0,
+            92021.0,
+            48173.0,
+            36037.0,
+            13396.0,
+            11420.0
+        ]
+    },
+    "Q84072": {
+        "top_entities": [
+            "Q183",
+            "Q43",
+            "Q83328",
+            "Q83488",
+            "Q25906338",
+            "Q256",
+            "Q704608",
+            "Q275924",
+            "Q44332",
+            "Q1796235"
+        ],
+        "top_labels": [
+            "Deutschland",
+            "Türkei",
+            "Turkvölker",
+            "Mesut_Özil",
+            "Putschversuch_in_der_Türkei_2016",
+            "Türkische_Sprache",
+            "Türkeistämmige_in_Deutschland",
+            "Schachtürke",
+            "Kemal_Kılıçdaroğlu",
+            "Liste_türkischer_Bevölkerungsanteile_nach_Staat"
+        ],
+        "top_clicks": [
+            1420210.0,
+            242457.0,
+            36027.0,
+            23252.0,
+            21282.0,
+            18509.0,
+            11482.0,
+            5431.0,
+            4966.0,
+            3188.0
+        ]
+    },
+    "Q35657": {
+        "top_entities": [
+            "Q99",
+            "Q1384",
+            "Q1214",
+            "Q1439",
+            "Q1400",
+            "Q1581",
+            "Q1537",
+            "Q1261",
+            "Q1212",
+            "Q782"
+        ],
+        "top_labels": [
+            "Kalifornien",
+            "New_York_(Bundesstaat)",
+            "Wyoming",
+            "Texas",
+            "Pennsylvania",
+            "Missouri",
+            "Wisconsin",
+            "Colorado",
+            "Montana",
+            "Hawaii"
+        ],
+        "top_clicks": [
+            118279.0,
+            102474.0,
+            96248.0,
+            94256.0,
+            88718.0,
+            87413.0,
+            80348.0,
+            76932.0,
+            75300.0,
+            75170.0
+        ]
+    },
+    "Q28026639": {
+        "top_entities": [
+            "Q23685878",
+            "Q107894",
+            "Q190588",
+            "Q1421476",
+            "Q105993",
+            "Q209481",
+            "Q131864",
+            "Q105598",
+            "Q221202",
+            "Q140447"
+        ],
+        "top_labels": [
+            "Shazam!_(Film)",
+            "James_Bond_007_–_Im_Geheimdienst_Ihrer_Majestät",
+            "Tatsächlich…_Liebe",
+            "Schöne_Bescherung",
+            "Stirb_langsam_2",
+            "Eyes_Wide_Shut",
+            "Der_Grinch_(2000)",
+            "Stirb_langsam",
+            "Kevin_–_Allein_in_New_York",
+            "Drei_Haselnüsse_für_Aschenbrödel"
+        ],
+        "top_clicks": [
+            74621.0,
+            72510.0,
+            58892.0,
+            52952.0,
+            50487.0,
+            48217.0,
+            44876.0,
+            43920.0,
+            40598.0,
+            40466.0
+        ]
+    },
+    "Q868217": {
+        "top_entities": [
+            "Q1189289",
+            "Q858294",
+            "Q71936",
+            "Q1538485",
+            "Q107486489",
+            "Q1463730",
+            "Q1135241",
+            "Q672418",
+            "Q1512956",
+            "Q1282807"
+        ],
+        "top_labels": [
+            "Tony_Hawk’s_(Spieleserie)",
+            "Tennis_for_Two",
+            "Wii_Sports",
+            "Tony_Hawk’s_Pro_Skater_2",
+            "FIFA_23",
+            "Tony_Hawk’s_Pro_Skater_3",
+            "Wii_Sports_Resort",
+            "Bundesliga_Manager",
+            "Tony_Hawk’s_Pro_Skater_4",
+            "Painstation"
+        ],
+        "top_clicks": [
+            7018.0,
+            2883.0,
+            2444.0,
+            2419.0,
+            1590.0,
+            1328.0,
+            1219.0,
+            1215.0,
+            1053.0,
+            1051.0
+        ]
+    },
+    "Q6501380": {
+        "top_entities": [
+            "Q17",
+            "Q252",
+            "Q408",
+            "Q424",
+            "Q836",
+            "Q42740",
+            "Q1146100",
+            "Q498231",
+            "Q10876842",
+            "Q779191"
+        ],
+        "top_labels": [
+            "Japan",
+            "Indonesien",
+            "Australien",
+            "Kambodscha",
+            "Myanmar",
+            "Han_(Ethnie)",
+            "Sinoamerikaner",
+            "Füßebinden",
+            "Chinesische_Küche",
+            "Auslandschinesen"
+        ],
+        "top_clicks": [
+            171529.0,
+            149150.0,
+            148736.0,
+            57454.0,
+            48758.0,
+            31366.0,
+            20902.0,
+            7450.0,
+            5361.0,
+            3615.0
+        ]
+    },
+    "Q42884": {
+        "top_entities": [
+            "Q183",
+            "Q40",
+            "Q36",
+            "Q188",
+            "Q2494",
+            "Q408",
+            "Q185654",
+            "Q101886",
+            "Q22633",
+            "Q255"
+        ],
+        "top_labels": [
+            "Deutschland",
+            "Österreich",
+            "Polen",
+            "Deutsche_Sprache",
+            "Benedikt_XVI.",
+            "Australien",
+            "Gal_Gadot",
+            "Joachim_von_Ribbentrop",
+            "Germanen",
+            "Ludwig_van_Beethoven"
+        ],
+        "top_clicks": [
+            1420210.0,
+            301483.0,
+            273757.0,
+            164907.0,
+            161791.0,
+            148736.0,
+            144085.0,
+            86883.0,
+            66753.0,
+            55641.0
+        ]
+    },
+    "Q1339864": {
+        "top_entities": [
+            "Q84203429",
+            "Q85808226",
+            "Q1146552",
+            "Q1768437",
+            "Q759359",
+            "Q603696",
+            "Q28840410",
+            "Q329131",
+            "Q1066098",
+            "Q56850065"
+        ],
+        "top_labels": [
+            "King_Richard",
+            "Das_Damengambit",
+            "Gefährliche_Brandung",
+            "Rush_–_Alles_für_den_Sieg",
+            "Auf_dem_Highway_ist_die_Hölle_los",
+            "Tage_des_Donners",
+            "Fighting_with_My_Family",
+            "Jerry_Maguire_–_Spiel_des_Lebens",
+            "Jackass_3D",
+            "Space_Jam:_A_New_Legacy"
+        ],
+        "top_clicks": [
+            85307.0,
+            31570.0,
+            25708.0,
+            24632.0,
+            18893.0,
+            18699.0,
+            17281.0,
+            15884.0,
+            15606.0,
+            14799.0
+        ]
+    },
+    "Q18545066": {
+        "top_entities": [
+            "Q18097962",
+            "Q83338",
+            "Q23517",
+            "Q4109",
+            "Q6443390",
+            "Q296609",
+            "Q23814",
+            "Q817734",
+            "Q333544",
+            "Q5090122"
+        ],
+        "top_labels": [
+            "Pete_Davidson",
+            "Robin_Williams",
+            "Ricky_Gervais",
+            "Chris_Rock",
+            "Kumail_Nanjiani",
+            "Russell_Brand",
+            "Stephen_Merchant",
+            "Benjamin_Walker_(Schauspieler)",
+            "Bob_Saget",
+            "Chelsea_Peretti"
+        ],
+        "top_clicks": [
+            114291.0,
+            111868.0,
+            87242.0,
+            63472.0,
+            55546.0,
+            52729.0,
+            48897.0,
+            46302.0,
+            40958.0,
+            39424.0
+        ]
+    },
+    "Q336059": {
+        "top_entities": [
+            "Q19798734",
+            "Q642878",
+            "Q62573305",
+            "Q56876444",
+            "Q16290",
+            "Q1077",
+            "Q28443710",
+            "Q104396610",
+            "Q21296543",
+            "Q104154217"
+        ],
+        "top_labels": [
+            "Stranger_Things",
+            "Marvel_Cinematic_Universe",
+            "Star_Trek:_Picard",
+            "The_Mandalorian",
+            "Raumschiff_Enterprise_–_Das_nächste_Jahrhundert",
+            "Raumschiff_Enterprise",
+            "Dark_(Fernsehserie)",
+            "Das_Buch_von_Boba_Fett",
+            "Star_Trek:_Discovery",
+            "Obi-Wan_Kenobi_(Fernsehserie)"
+        ],
+        "top_clicks": [
+            208752.0,
+            174500.0,
+            109711.0,
+            97391.0,
+            92461.0,
+            90044.0,
+            83469.0,
+            79722.0,
+            74889.0,
+            73156.0
+        ]
+    },
+    "Q50995749": {
+        "top_entities": [
+            "Q349",
+            "Q258877",
+            "Q454261",
+            "Q41583",
+            "Q326477",
+            "Q2504840",
+            "Q2066131",
+            "Q443492",
+            "Q975205",
+            "Q375558"
+        ],
+        "top_labels": [
+            "Sport",
+            "Caroline_Garcia",
+            "Amandine_Henry",
+            "Trainer",
+            "Enzo_Zidane",
+            "Evan_Fournier",
+            "Sportler",
+            "Gwendal_Peizerat",
+            "Sportwart",
+            "Vincent_Jay"
+        ],
+        "top_clicks": [
+            7558.0,
+            2016.0,
+            1942.0,
+            1743.0,
+            1495.0,
+            1346.0,
+            607.0,
+            601.0,
+            491.0,
+            386.0
+        ]
+    },
+    "Q1033891": {
+        "top_entities": [
+            "Q65768589",
+            "Q189600",
+            "Q846679",
+            "Q1586077",
+            "Q1418251",
+            "Q211462",
+            "Q590252",
+            "Q36970",
+            "Q159577",
+            "Q928019"
+        ],
+        "top_labels": [
+            "Shang-Chi_and_the_Legend_of_the_Ten_Rings",
+            "Matrix_Reloaded",
+            "Karate_Kid_(1984)",
+            "Karate_Kid_III_–_Die_letzte_Entscheidung",
+            "Karate_Kid_II_–_Entscheidung_in_Okinawa",
+            "Brandon_Lee",
+            "Jack_Reacher_(Film)",
+            "Jackie_Chan",
+            "Jet_Li",
+            "Kill_Bill_–_Volume_2"
+        ],
+        "top_clicks": [
+            137591.0,
+            85574.0,
+            51019.0,
+            46849.0,
+            45870.0,
+            45352.0,
+            43569.0,
+            42767.0,
+            37254.0,
+            35823.0
+        ]
+    },
+    "Q58826204": {
+        "top_entities": [
+            "Q4333889"
+        ],
+        "top_labels": [
+            "Olympiasieger"
+        ],
+        "top_clicks": [
+            1624.0
+        ]
+    },
+    "Q16153104": {
+        "top_entities": [
+            "Q59321885",
+            "Q93187",
+            "Q214289",
+            "Q60772",
+            "Q16986436",
+            "Q41142",
+            "Q254205",
+            "Q158957",
+            "Q208117",
+            "Q264748"
+        ],
+        "top_labels": [
+            "Olena_Selenska",
+            "Hilary_Swank",
+            "Michelle_Yeoh",
+            "Ursula_von_der_Leyen",
+            "Sanna_Marin",
+            "Jane_Fonda",
+            "Ming-Na_Wen",
+            "Priyanka_Chopra_Jonas",
+            "Bella_Thorne",
+            "Selma_Blair"
+        ],
+        "top_clicks": [
+            151160.0,
+            86578.0,
+            79486.0,
+            79431.0,
+            78737.0,
+            65999.0,
+            59168.0,
+            57997.0,
+            57010.0,
+            55644.0
+        ]
+    },
+    "Q2297927": {
+        "top_entities": [
+            "Q21534241",
+            "Q61633664",
+            "Q18602670",
+            "Q4941",
+            "Q23780457",
+            "Q181540",
+            "Q151904",
+            "Q212145",
+            "Q30931",
+            "Q207916"
+        ],
+        "top_labels": [
+            "James_Bond_007:_Keine_Zeit_zu_sterben",
+            "The_King’s_Man:_The_Beginning",
+            "James_Bond_007:_Spectre",
+            "James_Bond_007:_Skyfall",
+            "Kingsman:_The_Golden_Circle",
+            "James_Bond_007:_Ein_Quantum_Trost",
+            "James_Bond_007:_Casino_Royale",
+            "James_Bond_007_–_Die_Welt_ist_nicht_genug",
+            "James_Bond_007_–_Stirb_an_einem_anderen_Tag",
+            "James_Bond_007_–_Der_Morgen_stirbt_nie"
+        ],
+        "top_clicks": [
+            296853.0,
+            183083.0,
+            157642.0,
+            123550.0,
+            122986.0,
+            121078.0,
+            115460.0,
+            98822.0,
+            94033.0,
+            89873.0
+        ]
+    },
+    "Q108860593": {
+        "top_entities": [
+            "Q165069",
+            "Q327983",
+            "Q29286",
+            "Q1759446",
+            "Q188740",
+            "Q949846",
+            "Q1049033",
+            "Q1881229",
+            "Q866498",
+            "Q1274511"
+        ],
+        "top_labels": [
+            "Schloss_Miramare",
+            "Palast_von_Caserta",
+            "Palazzo_Pitti",
+            "Villa_del_Balbianello",
+            "Museum_of_Modern_Art",
+            "Giardino_dei_Tarocchi",
+            "Peggy_Guggenheim_Collection",
+            "MAXXI_–_Museo_nazionale_delle_arti_del_XXI_secolo",
+            "Galleria_Palatina",
+            "Moderna_Museet"
+        ],
+        "top_clicks": [
+            12952.0,
+            7918.0,
+            7742.0,
+            6249.0,
+            4733.0,
+            2377.0,
+            1878.0,
+            1607.0,
+            1427.0,
+            1081.0
+        ]
+    },
+    "Q21600439": {
+        "top_entities": [
+            "Q104884",
+            "Q159758",
+            "Q448400",
+            "Q159297",
+            "Q670922",
+            "Q191163",
+            "Q61987",
+            "Q937096",
+            "Q366212",
+            "Q214062"
+        ],
+        "top_labels": [
+            "Caspar_David_Friedrich",
+            "William_Turner",
+            "Fritz_Mackensen",
+            "John_Constable",
+            "Emil_Jakob_Schindler",
+            "Landschaftsmalerei",
+            "Carl_Gustav_Carus",
+            "John_Martin_(Maler)",
+            "Frederic_Edwin_Church",
+            "Joseph_Wright_of_Derby"
+        ],
+        "top_clicks": [
+            20958.0,
+            12900.0,
+            2515.0,
+            1919.0,
+            1742.0,
+            1692.0,
+            1011.0,
+            944.0,
+            819.0,
+            634.0
+        ]
+    },
+    "Q50001": {
+        "top_entities": [
+            "Q408",
+            "Q5592",
+            "Q5597",
+            "Q317358",
+            "Q676555",
+            "Q5669",
+            "Q12379",
+            "Q21055394",
+            "Q42207",
+            "Q44383"
+        ],
+        "top_labels": [
+            "Australien",
+            "Michelangelo",
+            "Raffael",
+            "Michael_Imperioli",
+            "Franz_von_Assisi",
+            "Sandro_Botticelli",
+            "Mario_(Computerspielfigur)",
+            "Agnelli_(Familie)",
+            "Michelangelo_Merisi_da_Caravaggio",
+            "Tarcisio_Bertone"
+        ],
+        "top_clicks": [
+            148736.0,
+            40044.0,
+            25285.0,
+            19924.0,
+            19625.0,
+            18529.0,
+            15594.0,
+            11757.0,
+            11055.0,
+            6650.0
+        ]
+    },
+    "Q20650540": {
+        "top_entities": [
+            "Q29011",
+            "Q1107",
+            "Q96031360",
+            "Q155653",
+            "Q186572",
+            "Q498577",
+            "Q21697406",
+            "Q888131",
+            "Q1066948",
+            "Q8885676"
+        ],
+        "top_labels": [
+            "Das_wandelnde_Schloss_(Anime)",
+            "Anime",
+            "Aya_und_die_Hexe",
+            "Chihiros_Reise_ins_Zauberland",
+            "Prinzessin_Mononoke",
+            "Das_Schloss_im_Himmel",
+            "Your_Name._–_Gestern,_heute_und_für_immer",
+            "Wie_der_Wind_sich_hebt",
+            "Ghost_in_the_Shell_(Anime)",
+            "Nausicaä_aus_dem_Tal_der_Winde_(Anime)"
+        ],
+        "top_clicks": [
+            40248.0,
+            32790.0,
+            19092.0,
+            18960.0,
+            14593.0,
+            12242.0,
+            11822.0,
+            10112.0,
+            9924.0,
+            9889.0
+        ]
+    },
+    "Q472055": {
+        "top_entities": [
+            "Q603555",
+            "Q208189",
+            "Q2096756",
+            "Q48928832",
+            "Q7903060",
+            "Q52239827",
+            "Q64945366",
+            "Q18361009",
+            "Q22095476",
+            "Q24032098"
+        ],
+        "top_labels": [
+            "Globalstrategiespiel",
+            "Echtzeit-Strategiespiel",
+            "Pirates!",
+            "Total_War:_Three_Kingdoms",
+            "Worms_(Spieleserie)",
+            "Total_War_Saga:_Thrones_of_Britannia",
+            "Empire_of_Sin",
+            "Mount_&_Blade_II:_Bannerlord",
+            "Clash_Royale",
+            "Warhammer_40.000:_Dawn_of_War_III"
+        ],
+        "top_clicks": [
+            6265.0,
+            4600.0,
+            3694.0,
+            3321.0,
+            2697.0,
+            2437.0,
+            2213.0,
+            2176.0,
+            2161.0,
+            2112.0
+        ]
+    },
+    "Q1957385": {
+        "top_entities": [
+            "Q140447",
+            "Q15046091",
+            "Q15055478",
+            "Q179673",
+            "Q1214992",
+            "Q1212956",
+            "Q3206615",
+            "Q14857809",
+            "Q2676005",
+            "Q215365"
+        ],
+        "top_labels": [
+            "Drei_Haselnüsse_für_Aschenbrödel",
+            "Cinderella_(2015)",
+            "Paddington_(Film)",
+            "Die_Schöne_und_das_Biest_(1991)",
+            "Die_Märchenbraut",
+            "Die_Geschichte_vom_kleinen_Muck",
+            "Die_Schöne_und_das_Biest_(2014)",
+            "Die_kleine_Meerjungfrau_(1976)",
+            "Die_Schöne_und_das_Biest_(2012)",
+            "Bärenbrüder"
+        ],
+        "top_clicks": [
+            40466.0,
+            22167.0,
+            16213.0,
+            13242.0,
+            11872.0,
+            10981.0,
+            10636.0,
+            6065.0,
+            5937.0,
+            5093.0
+        ]
+    },
+    "Q49542": {
+        "top_entities": [
+            "Q159",
+            "Q7747",
+            "Q227",
+            "Q16514790",
+            "Q170576",
+            "Q7737",
+            "Q914114",
+            "Q61064",
+            "Q997",
+            "Q157594"
+        ],
+        "top_labels": [
+            "Russland",
+            "Wladimir_Wladimirowitsch_Putin",
+            "Aserbaidschan",
+            "Denis_Wladimirowitsch_Puschilin",
+            "Milla_Jovovich",
+            "Russische_Sprache",
+            "Rus_(Volk)",
+            "Wassily_Kandinsky",
+            "Andrei_Dmitrijewitsch_Sacharow",
+            "Wassili_Iwanowitsch_Tschuikow"
+        ],
+        "top_clicks": [
+            846235.0,
+            428172.0,
+            120265.0,
+            105228.0,
+            100232.0,
+            63418.0,
+            28437.0,
+            23083.0,
+            22170.0,
+            20380.0
+        ]
+    },
+    "Q229390": {
+        "top_entities": [
+            "Q18199331",
+            "Q18199330",
+            "Q23010088",
+            "Q18407657",
+            "Q20501835",
+            "Q18604504",
+            "Q6074",
+            "Q22998395",
+            "Q20001199",
+            "Q232009"
+        ],
+        "top_labels": [
+            "Phantastische_Tierwesen:_Grindelwalds_Verbrechen",
+            "Phantastische_Tierwesen_und_wo_sie_zu_finden_sind_(Film)",
+            "Spider-Man:_Homecoming",
+            "The_First_Avenger:_Civil_War",
+            "Justice_League_(Film)",
+            "Suicide_Squad_(Film)",
+            "Star_Wars:_Das_Erwachen_der_Macht",
+            "Aquaman_(Film)",
+            "Guardians_of_the_Galaxy_Vol._2",
+            "Harry_Potter_und_die_Heiligtümer_des_Todes_–_Teil_2"
+        ],
+        "top_clicks": [
+            222497.0,
+            180940.0,
+            143940.0,
+            138753.0,
+            137335.0,
+            134712.0,
+            134474.0,
+            130113.0,
+            129885.0,
+            126536.0
+        ]
+    },
+    "Q9335577": {
+        "top_entities": [
+            "Q689438",
+            "Q4525",
+            "Q105553568",
+            "Q1215825",
+            "Q48796994",
+            "Q106188426",
+            "Q1079",
+            "Q13148212",
+            "Q15931555",
+            "Q371207"
+        ],
+        "top_labels": [
+            "Tatort_(Fernsehreihe)",
+            "Navy_CIS",
+            "Wednesday_(Fernsehserie)",
+            "Die_Rosenheim-Cops",
+            "The_Boys_(Fernsehserie)",
+            "Dahmer_–_Monster:_Die_Geschichte_von_Jeffrey_Dahmer",
+            "Breaking_Bad",
+            "The_Blacklist",
+            "Fargo_(Fernsehserie)",
+            "Columbo"
+        ],
+        "top_clicks": [
+            127830.0,
+            104746.0,
+            102016.0,
+            96738.0,
+            95572.0,
+            90315.0,
+            80454.0,
+            76103.0,
+            67899.0,
+            52704.0
+        ]
+    },
+    "Q193606": {
+        "top_entities": [
+            "Q39829",
+            "Q169566",
+            "Q210059",
+            "Q25161",
+            "Q36184",
+            "Q61994",
+            "Q19715429",
+            "Q268181",
+            "Q2344221",
+            "Q333123"
+        ],
+        "top_labels": [
+            "Stephen_King",
+            "H._P._Lovecraft",
+            "Neil_Gaiman",
+            "Roald_Dahl",
+            "Bram_Stoker",
+            "Wolfgang_Hohlbein",
+            "Schauerliteratur",
+            "Chuck_Palahniuk",
+            "Langoliers",
+            "R._L._Stine"
+        ],
+        "top_clicks": [
+            57808.0,
+            32812.0,
+            26915.0,
+            22039.0,
+            14867.0,
+            10083.0,
+            7797.0,
+            7288.0,
+            6930.0,
+            6104.0
+        ]
+    },
+    "Q2927074": {
+        "top_entities": [
+            "Q55405369",
+            "Q2673",
+            "Q6023923",
+            "Q23018230",
+            "Q937633",
+            "Q899641",
+            "Q54855979",
+            "Q695677",
+            "Q15613810",
+            "Q107162754"
+        ],
+        "top_labels": [
+            "Morbius",
+            "Chuck_Norris",
+            "Internetphänomen",
+            "Alt-Right",
+            "Chuck_Norris_Facts",
+            "Purple_Drank",
+            "Ahegao",
+            "Rickrolling",
+            "Doge_(Netzkultur)",
+            "Big_Floppa"
+        ],
+        "top_clicks": [
+            44829.0,
+            42121.0,
+            24319.0,
+            20839.0,
+            18340.0,
+            15268.0,
+            13784.0,
+            11057.0,
+            9844.0,
+            8209.0
+        ]
+    },
+    "Q12360214": {
+        "top_entities": [
+            "Q165644",
+            "Q2599",
+            "Q2643",
+            "Q202859",
+            "Q677129",
+            "Q207197",
+            "Q1098508",
+            "Q312531",
+            "Q208117",
+            "Q47878"
+        ],
+        "top_labels": [
+            "Paul_Landers",
+            "Paul_McCartney",
+            "George_Harrison",
+            "Flea_(Musiker)",
+            "Rodrigo_González",
+            "Gene_Simmons",
+            "Claus_Fischer_(Musiker)",
+            "Thomas_Brodie-Sangster",
+            "Bella_Thorne",
+            "Sid_Vicious"
+        ],
+        "top_clicks": [
+            145345.0,
+            113637.0,
+            99007.0,
+            98004.0,
+            95907.0,
+            67313.0,
+            66083.0,
+            60908.0,
+            57010.0,
+            48847.0
+        ]
+    },
+    "Q584105": {
+        "top_entities": [
+            "Q533752",
+            "Q53998035",
+            "Q1362771",
+            "Q9016800",
+            "Q31837535",
+            "Q908392",
+            "Q66058371",
+            "Q307441",
+            "Q1196429",
+            "Q1502333"
+        ],
+        "top_labels": [
+            "Guitar_Hero",
+            "Beat_Saber",
+            "Frets_on_Fire",
+            "Just_Dance_(Spieleserie)",
+            "To_be_on_Top",
+            "Dance_Dance_Revolution",
+            "Space_Channel_5",
+            "Osu!",
+            "Elite_Beat_Agents",
+            "SingStar"
+        ],
+        "top_clicks": [
+            959.0,
+            592.0,
+            525.0,
+            418.0,
+            334.0,
+            320.0,
+            237.0,
+            214.0,
+            183.0,
+            160.0
+        ]
+    }
+}

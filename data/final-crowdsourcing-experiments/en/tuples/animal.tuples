@@ -1,0 +1,30 @@
+domesticated animal	Bilateria	Porifera	Lama glama
+number of the beast	semen	Rotaviral gastroenteritis	Cryptoprocta ferox
+Bayeux Embroidery	Francis of Assisi	carnivore	Eumetazoa
+dinosaur	invertebrate	Metazoa	semen
+Rotaviral gastroenteritis	Porifera	Francis of Assisi	Bayeux Embroidery
+Eumetazoa	number of the beast	Lama glama	Bilateria
+Cryptoprocta ferox	dinosaur	carnivore	domesticated animal
+invertebrate	Metazoa	Bilateria	Eumetazoa
+semen	Porifera	invertebrate	Cryptoprocta ferox
+Bayeux Embroidery	Lama glama	domesticated animal	carnivore
+number of the beast	dinosaur	Rotaviral gastroenteritis	Francis of Assisi
+Metazoa	carnivore	invertebrate	Cryptoprocta ferox
+Lama glama	domesticated animal	Bayeux Embroidery	dinosaur
+Metazoa	Francis of Assisi	number of the beast	Porifera
+Bilateria	Eumetazoa	Rotaviral gastroenteritis	semen
+domesticated animal	Porifera	semen	Eumetazoa
+Cryptoprocta ferox	Rotaviral gastroenteritis	Bilateria	Metazoa
+Lama glama	number of the beast	invertebrate	Francis of Assisi
+carnivore	dinosaur	Bayeux Embroidery	Cryptoprocta ferox
+Eumetazoa	domesticated animal	dinosaur	Bayeux Embroidery
+invertebrate	Rotaviral gastroenteritis	Francis of Assisi	carnivore
+semen	Lama glama	Metazoa	number of the beast
+Porifera	Bilateria	invertebrate	Bayeux Embroidery
+Cryptoprocta ferox	Porifera	Lama glama	number of the beast
+dinosaur	Metazoa	Eumetazoa	Francis of Assisi
+Rotaviral gastroenteritis	domesticated animal	Bilateria	semen
+carnivore	Lama glama	Bilateria	dinosaur
+Francis of Assisi	Cryptoprocta ferox	Metazoa	domesticated animal
+Rotaviral gastroenteritis	semen	carnivore	Eumetazoa
+number of the beast	invertebrate	Porifera	Bayeux Embroidery

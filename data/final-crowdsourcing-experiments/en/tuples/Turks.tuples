@@ -1,0 +1,28 @@
+Asian people	Bahaeddin Şakir	Karamanlides	Kemal Kılıçdaroğlu
+Turkic peoples	Germany	The Turk	Turks in Germany
+Bibras Natcho	Turkish	2016 Turkish coup d'état attempt	Turkey
+Turkish diaspora	Mesut Özil	Turks in Germany	Karamanlides
+Kemal Kılıçdaroğlu	Germany	Turkish	Bahaeddin Şakir
+Asian people	2016 Turkish coup d'état attempt	The Turk	Mesut Özil
+Turkic peoples	Bibras Natcho	Turkey	Turkish diaspora
+Mesut Özil	Turks in Germany	2016 Turkish coup d'état attempt	The Turk
+Turkish	Kemal Kılıçdaroğlu	Germany	Turkic peoples
+Karamanlides	Bahaeddin Şakir	Turkey	Bibras Natcho
+Asian people	Turkish diaspora	Turkic peoples	Turkish
+Bibras Natcho	Bahaeddin Şakir	Kemal Kılıçdaroğlu	The Turk
+Karamanlides	Turkey	Mesut Özil	Germany
+Turks in Germany	Asian people	2016 Turkish coup d'état attempt	Turkish diaspora
+Asian people	Bibras Natcho	Turkic peoples	Mesut Özil
+Turkey	Karamanlides	The Turk	Kemal Kılıçdaroğlu
+Turks in Germany	Turkish	Bahaeddin Şakir	2016 Turkish coup d'état attempt
+Germany	Turkish diaspora	Bibras Natcho	Asian people
+Turks in Germany	Germany	Turkey	Bahaeddin Şakir
+Kemal Kılıçdaroğlu	The Turk	2016 Turkish coup d'état attempt	Turkic peoples
+Mesut Özil	Karamanlides	Turkish	Turkish diaspora
+Germany	Mesut Özil	The Turk	Bibras Natcho
+Turkey	2016 Turkish coup d'état attempt	Turkish diaspora	Bahaeddin Şakir
+Turkish	Turkic peoples	Asian people	Karamanlides
+Turks in Germany	Kemal Kılıçdaroğlu	2016 Turkish coup d'état attempt	Turkish diaspora
+Turkic peoples	Germany	Turks in Germany	Turkey
+Karamanlides	The Turk	Asian people	Kemal Kılıçdaroğlu
+Mesut Özil	Turkish	Bahaeddin Şakir	Bibras Natcho

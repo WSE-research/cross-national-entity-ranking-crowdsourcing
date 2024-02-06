@@ -1,0 +1,32 @@
+Four Past Midnight	R. L. Stine	New Watch	Wolfgang Hohlbein
+Bram Stoker	Ray Bradbury	H. P. Lovecraft	Anne Rice
+Chuck Palahniuk	The Call of Cthulhu	Tabitha King	Neil Gaiman
+Roald Dahl	Stephen King	Max Brooks	Gothic literature
+Four Past Midnight	Anne Rice	Neil Gaiman	Stephen King
+Chuck Palahniuk	H. P. Lovecraft	Gothic literature	Max Brooks
+Tabitha King	Bram Stoker	Ray Bradbury	Roald Dahl
+R. L. Stine	Wolfgang Hohlbein	The Call of Cthulhu	New Watch
+Chuck Palahniuk	Ray Bradbury	Neil Gaiman	R. L. Stine
+New Watch	Bram Stoker	The Call of Cthulhu	H. P. Lovecraft
+Gothic literature	Wolfgang Hohlbein	Stephen King	Four Past Midnight
+Max Brooks	Tabitha King	Roald Dahl	Anne Rice
+Stephen King	Gothic literature	Anne Rice	Ray Bradbury
+Tabitha King	R. L. Stine	Neil Gaiman	Wolfgang Hohlbein
+Max Brooks	New Watch	Four Past Midnight	Chuck Palahniuk
+H. P. Lovecraft	The Call of Cthulhu	Roald Dahl	Bram Stoker
+The Call of Cthulhu	Stephen King	Tabitha King	Bram Stoker
+Chuck Palahniuk	R. L. Stine	Gothic literature	Anne Rice
+Ray Bradbury	Max Brooks	Roald Dahl	New Watch
+H. P. Lovecraft	Neil Gaiman	Four Past Midnight	Wolfgang Hohlbein
+H. P. Lovecraft	Anne Rice	Max Brooks	New Watch
+Stephen King	R. L. Stine	Bram Stoker	Ray Bradbury
+Tabitha King	Roald Dahl	Chuck Palahniuk	Wolfgang Hohlbein
+Four Past Midnight	The Call of Cthulhu	Gothic literature	Neil Gaiman
+Ray Bradbury	Tabitha King	The Call of Cthulhu	Four Past Midnight
+Anne Rice	Roald Dahl	Gothic literature	H. P. Lovecraft
+Neil Gaiman	Stephen King	New Watch	Chuck Palahniuk
+Wolfgang Hohlbein	Bram Stoker	R. L. Stine	Max Brooks
+Neil Gaiman	New Watch	Stephen King	Gothic literature
+Four Past Midnight	Anne Rice	Bram Stoker	Wolfgang Hohlbein
+R. L. Stine	The Call of Cthulhu	H. P. Lovecraft	Ray Bradbury
+Roald Dahl	Chuck Palahniuk	Max Brooks	Tabitha King
